@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\patch0.xml-->
+  <!--        EN: Horror incidents disabled -->
+  <Disabled.label>Хоррор события отключены</Disabled.label>
+  <!--              EN: The standard recommended experience. Horror threats are linked to the activation of the monolith. -->
+  <Standard.description>Стандартный рекомендуемый опыт. Хоррор угрозы связаны с активацией монолита.</Standard.description>
+  <!--                   EN: The monolith does not appear. Any horror threat can occur, but they will be rare by default. Good if you want to interact with horror content without it being the focus. Note: The monolith endgame cannot occur in this mode. -->
+  <AmbientHorror.description>Монолит не появляется. Любая хоррор угроза может появиться, но по умолчанию она будет редкой. Хорошо подходит, если вы хотите взаимодействовать с хоррор-контентом, не ставя иго во главу угла. Примечание: концовка монолита в этом режиме недостижима.</AmbientHorror.description>
+  <!--              EN: Horror threats do not occur. Good if you don’t want to interact with most horror content. -->
+  <Disabled.description>Хоррор угроз не возникает. Хорошо, если вы не хотите взаимодействовать с большинством хоррор-контента.</Disabled.description>
+</LanguageData>

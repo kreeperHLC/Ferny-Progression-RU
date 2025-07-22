@@ -1,0 +1,10 @@
+<LanguageData>
+  <!-- EN: No active dark research project selected for {0} knowledge category. -->
+  <NoActiveResearchProject>Не выбран активный проект тёмного исследования в категории знаний {0}.</NoActiveResearchProject>
+  <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe monolith is stirring... -->
+  <VoidMonolithInvestigatedText>Тёмная металлическая поверхность монолита тёплая на ощупь, и {PAWN_nameDef} как будто слышит изнутри тихий гул. Линии на его пыльной поверхности сплетаются в жуткие узоры, и кажется, что узоры шевелятся.\n\n{PAWN_nameDef} сосредотачивается на узорах, пытаясь понять их значение.\n\nГул усиливается. Узоры уже плывут у {PAWN_gender ? несчастного : несчастной} {PAWN_nameDef} перед глазами, но поверхность не меняется. Пустое пространство вокруг словно наполняется силой. {PAWN_nameDef} начинает видеть какую-то тёмную фигуру.\n\nМонолит пробуждается...</VoidMonolithInvestigatedText>
+  <!-- EN: Keep focusing on the monolith -->
+  <VoidMonolithInvestigate>Не отвлекаться о монолита</VoidMonolithInvestigate>
+  <!-- EN: View dark research -->
+  <VoidMonolithViewResearch>Просмотр тёмных исследований</VoidMonolithViewResearch>
+</LanguageData>

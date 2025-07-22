@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\vegenetics_patch1.xml-->
+  <!--                          EN: animal gene supplier -->
+  <GR_Outlander_CaravanTrader.label>поставщик генов животных</GR_Outlander_CaravanTrader.label>
+  <!--                EN: animal gene supplier -->
+  <GR_OrbitalTrader.label>поставщик генов животных</GR_OrbitalTrader.label>
+</LanguageData>

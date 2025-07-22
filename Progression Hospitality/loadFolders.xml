@@ -1,0 +1,14 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="Adamas.VendingMachines">Mods and Shit/Vending Machines</li>
+    <li IfModActive="nightmare.museums">Mods and Shit/Museums</li>
+    <li IfModActive="adamas.hospitalitycasino">Mods and Shit/Casino</li>
+    <li IfModActive="orion.cashregister">Mods and Shit/Cash Register</li>
+    <li IfModActive="Adamas.VendingMachines">From_patches/Adamas_VendingMachines</li>
+		<li IfModActive="nightmare.museums">From_patches/nightmare_museums</li>
+		<li IfModActive="biomesteam.biomesfossils">From_patches/biomesteam_biomesfossils</li>
+		<li IfModActive="orion.cashregister">From_patches/orion_cashregister</li>
+		<li IfModActive="dankpyon.medieval.overhaul">From_patches/dankpyon_medieval_overhaul</li>
+	</v1.5>
+</loadFolders>

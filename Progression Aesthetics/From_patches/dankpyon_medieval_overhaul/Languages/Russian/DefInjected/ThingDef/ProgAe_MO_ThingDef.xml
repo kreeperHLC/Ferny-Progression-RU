@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhual patch0.xml-->
+  <!--                       EN: royal research shelf -->
+  <DankPyon_RoyalBookshelf.label>королевская исследовательская полка</DankPyon_RoyalBookshelf.label>
+  <!--                        EN: research shelf -->
+  <DankPyon_RusticBookshelf.label>исследовательская полка</DankPyon_RusticBookshelf.label>
+  <!--                            EN: large research shelf -->
+  <DankPyon_RusticBookshelf1x2c.label>большая исследовательская полка</DankPyon_RusticBookshelf1x2c.label>
+</LanguageData>

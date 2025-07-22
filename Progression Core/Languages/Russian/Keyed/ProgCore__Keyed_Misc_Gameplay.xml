@@ -1,0 +1,33 @@
+<LanguageData>
+  <!-- EN: Distant shouts -->
+  <CultureLetterTitle>Отдаленные возгласы</CultureLetterTitle>
+  <!-- EN: Your short-range radio has picked up signals of several screaming senators of {0}.
+	
+They shout over each other, until one voice speaks clear amongst them. They have spotted your signal and ask for your help in exchange for useful information on useful neolithic technologies. By completing basic quests for these senators, they will give you unique colony-wide perks, research, and join your colony. 
+
+If you keep these senators alive and gain the favor of all of them, you can win an additional major perk specific to that republic. If you do this process with all three republics, they could unite into a single empire that will grant you the ability to recruit any member of its faction with a click of a button.
+
+Colonists interested in discussing with these senators must travel physically to discuss with them.
+Begin gaining the favor of the senators by visiting Republic settlements.
+- Form a caravan
+- Visit a Republic settlement
+- Right-click the settlement, open senators screen -->
+  <CultureLetterTitleDesc>Ваша рация засекла сигналы нескольких кричащих сенаторов из {0}.
+	
+Они перекрикивают друг друга, пока не затихнут все, кроме одного. Они заметили ваш сигнал и просят о помощи в обмен на полезную информацию о полезных технологиях неолита. Выполняя задания сенаторов, они предоставят вам уникальные привилегии, исследования и присоединятся к вашему поселению. 
+
+Если вы будете оберегать и добьётесь благосклонности всех из них, то сможете получить дополнительное важное преимущество, характерное для этой республики. Если вы проделаете этот процесс со всеми тремя республиками, они смогут объединиться в единую империю, которая даст вам возможность моментально завербовать любого члена их фракций.
+
+Поселенцы, заинтересованные в переговорах с сенаторами, должны лично встретиться с ними.
+Начните завоевывать расположение сенаторов, посещая поселения Республики.
+- Сформируйте караван
+- Посетите поселение Республики
+- Нажмите правой кнопкой мыши по поселению, чтобы открыть экран сенаторов</CultureLetterTitleDesc>
+
+  <!-- EN: Ready to advance -->
+  <ReadyToAdvance>Доступен переход</ReadyToAdvance>
+  <!-- EN: You have researched enough projects to advance to the next tech level. To advance, select a gather-spot, like a table, and begin the advancement ritual. -->
+  <ReadyToAdvanceDesc>Вы изучили достаточно проектов, чтобы перейти на следующий технологический уровень. Чтобы перейти на следующий уровень, выберите место сбора, например стол, и начните ритуал перехода.</ReadyToAdvanceDesc>
+  <!-- EN: Requirements not met: Not enough research projects of the previous tech level have been researched. -->
+  <VFET.NotAllReseachProjectsResearched>Требования не выполнены: Недостаточно исследовательских проектов предыдущего технологического уровня.</VFET.NotAllReseachProjectsResearched>
+</LanguageData>

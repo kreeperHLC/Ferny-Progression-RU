@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\biomesteam_biomesfossils\biomes fossils patch2.xml-->
+  <!--                EN: small fossil display -->
+  <BMT_DisplaySmall.label>экспозиция небольших окаменелостей</BMT_DisplaySmall.label>
+  <!--                 EN: medium fossil display -->
+  <BMT_DisplayMedium.label>экспозиция средних окаменелостей</BMT_DisplayMedium.label>
+  <!--                EN: large fossil display -->
+  <BMT_DisplayLarge.label>экспозиция больших окаменелостей</BMT_DisplayLarge.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<LanguageData>
+  <!-- EN: Void entities and their variations. -->
+  <MedGroupEntitiesDesc>Разные виды пустотных тварей и объектов.</MedGroupEntitiesDesc>
+  <!-- EN: no void-related buildings allowed -->
+  <RoomRequirementNoAnomalyBuildings>нет относящихся к пустоте сооружений</RoomRequirementNoAnomalyBuildings>
+  <!-- EN: View all discovered entities. Discover new entities to advance the monolith and reveal new dark research. -->
+  <EntityCodexGizmoTip>Посмотрите список всех обнаруженных тёмных феноменов. Открывайте новых тварей, чтобы улучшать монолит и разблокировать новые тёмные исследования</EntityCodexGizmoTip>
+  <!-- EN: This page lists all known entities which are related to the dark void. Discover new entities using the “void provocation” psychic ritual. Discovering new entities reveals new dark research projects, and allows you to advance the void monolith. -->
+  <EntityCodexDesc>Это список всех известных тварей, имеющих отношение к пустоте. Открывайте новых тварей с помощью псионического ритуала воззвания к пустоте. Новые существа разблокируют недоступные тёмные исследования и позволят вам улучшить монолит пустоты.</EntityCodexDesc>
+</LanguageData>

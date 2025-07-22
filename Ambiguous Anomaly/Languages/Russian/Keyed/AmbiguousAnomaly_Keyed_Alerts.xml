@@ -1,0 +1,10 @@
+<LanguageData>
+  <!-- EN: Need dark research project -->
+  <NeedAnomalyProject>Выберите тёмное исследование</NeedAnomalyProject>
+  <!-- EN: You have an entity marked for study but don't have a matching dark research project selected: -->
+  <NeedAnomalyProjectDesc>Вы пометили тварь как объект изучения, но не выбрали подходящее тёмное исследование:</NeedAnomalyProjectDesc>
+  <!-- EN: Need {NAME} dark research project -->
+  <NeedAnomalyProjectDescLine>Требуется выбрать тёмное исследование «{NAME}»</NeedAnomalyProjectDescLine>
+  <!-- EN: Open the research menu and select a project on the dark research tab.\n\nYou can have a basic and an advanced research project selected at the same time.\n\n(Click to open the research menu.) -->
+  <NeedAnomalyProjectDescAppended>Перейдите в меню «Технологии» и выберите исследование на вкладке с тёмными исследованиями.\n\nВы можете одновременно проводить базовое и продвинутое исследования.\n\n(Нажмите, чтобы открыть меню «Технологии».)</NeedAnomalyProjectDescAppended>
+</LanguageData>

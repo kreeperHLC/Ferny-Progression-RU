@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Mods and Shit\Gene Ripper\Defs\generipper_defs.xml-->
+  <!--                EN: gene ripper -->
+  <Ferny_GeneRipper.label>Вырыватель генов</Ferny_GeneRipper.label>
+  <!--                      EN: A machine that can rip a selected gene directly from the host, at the cost of their life. -->
+  <Ferny_GeneRipper.description>Машина, способная вырвать выбранный ген непосредственно из носителя ценой его жизни.</Ferny_GeneRipper.description>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\orion_cashregister\cash register patch3.xml-->
+  <!--                               EN: A cash register. From here you can control your restaurant or store. -->
+  <CashRegister_CashRegister.description>Кассовый аппарат. Отсюда вы можете управлять своим рестораном или магазином.</CashRegister_CashRegister.description>
+</LanguageData>

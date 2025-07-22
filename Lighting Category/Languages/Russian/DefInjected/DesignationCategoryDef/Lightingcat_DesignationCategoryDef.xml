@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--              EN: Lighting -->
+  <Ferny_Lighting.label>Освещение</Ferny_Lighting.label>
+  <!--                    EN: Buildings that emit light. -->
+  <Ferny_Lighting.description>Постройки, которые излучают свет.</Ferny_Lighting.description>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\patch0.xml-->
+  <!--                     EN: A platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for dark knowledge. Increase containment strength by building strong walls and doors, and other special containment devices. -->
+  <HoldingPlatform.description>Платформа для удержания опасных тварей. По углам расположены проушины для толстых цепей.\n\nОбездвиженных тварей можно приковывать к платформе и изучать, чтобы получать тёмные знания. Ставьте крепкие стены и двери, а также стройте другие средства изоляции, чтобы дополнительно снизить вероятность побега.</HoldingPlatform.description>
+</LanguageData>

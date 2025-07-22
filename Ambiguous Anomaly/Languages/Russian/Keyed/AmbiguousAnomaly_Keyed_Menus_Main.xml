@@ -1,0 +1,34 @@
+<LanguageData>
+  <!-- EN: Horror -->
+  <DifficultyAnomalySection>Хоррор</DifficultyAnomalySection>
+  <!-- EN: Horror threats -->
+  <Difficulty_AnomalyThreats_Label>Хоррор угрозы</Difficulty_AnomalyThreats_Label>
+  <!-- EN: Adjust the percentage of major threats that will be horror-related. -->
+  <Difficulty_AnomalyThreats_Info>Настройте процент основных угроз, которые будут связаны с хоррором.</Difficulty_AnomalyThreats_Info>
+  <!-- EN: Horror threats (inactive) -->
+  <Difficulty_AnomalyThreatsInactive_Label>Хоррор угрозы (Неактивно)</Difficulty_AnomalyThreatsInactive_Label>
+  <!-- EN: Adjust the percentage of major threats that will be horror-related when the monolith is not active. Only certain minor horror incidents can occur when the monolith is inactive. -->
+  <Difficulty_AnomalyThreatsInactive_Info>Настройте процент основных угроз, которые будут связаны с хоррором, когда монолит не активен. Только некоторые незначительные инциденты, связанные с хоррором, могут произойти, когда монолит неактивен.</Difficulty_AnomalyThreatsInactive_Info>
+  <!-- EN: Horror threats (active) -->
+  <Difficulty_AnomalyThreatsActive_Label>Хоррор угрозы (Активно)</Difficulty_AnomalyThreatsActive_Label>
+  <!-- EN: Adjust the percentage of major threats that will be horror-related when the monolith is active. With the current settings:\n  - {0} of major threats will be horror-related at monolith level 1 and 5\n  - {1} of major threats will be horror-related at monolith levels 2-4 -->
+  <Difficulty_AnomalyThreatsActive_Info>Настройте процент основных угроз, которые будут связаны с хоррором, когда монолит активен. При текущих настройках:\n - {0} основных угроз будут связаны с ужасом на уровне монолита 1 и 5\n - {1} основных угроз будут связаны с ужасом на уровнях монолита 2-4.</Difficulty_AnomalyThreatsActive_Info>
+  <!-- EN: Study efficiency -->
+  <Difficulty_StudyEfficiency_Label>Эффективность исследования</Difficulty_StudyEfficiency_Label>
+  <!-- EN: Add a multiplier to how much research is gained when studying unnatural entities. -->
+  <Difficulty_StudyEfficiency_Info>Добавляет множитель к количеству исследований, получаемых при изучении противоестественных тварей.</Difficulty_StudyEfficiency_Info>
+
+  <!-- EN: Child shamblers -->
+  <Difficulty_ChildShamblersAllowed_Label>Шамблеры-дети</Difficulty_ChildShamblersAllowed_Label>
+  <!-- EN: Reanimated child shamblers will sometimes appear. -->
+  <Difficulty_ChildShamblersAllowed_Info>Временами будут появляться ожившие дети-шамблеры.</Difficulty_ChildShamblersAllowed_Info>
+
+  <!-- EN: Horror settings -->
+  <AnomalySettings>Настройки хоррора</AnomalySettings>
+  <!-- EN: Choose how you'd like to integrate horror into your game: -->
+  <ChooseAnomalyPlaystyle>Выберите, как вы хотите интегрировать хоррор в свою игру:</ChooseAnomalyPlaystyle>
+  <!-- EN: Update horror storyteller settings. These can be modified during the game -->
+  <CanBeEditedInStorytellerSettings>Обновить настройки рассказчика хорроров. Они могут быть изменены во время игры</CanBeEditedInStorytellerSettings>
+  <!-- EN: Set to standard playstyle -->
+  <SetToStandardPlaystyle>Установить стандартный стиль игры</SetToStandardPlaystyle>
+</LanguageData>

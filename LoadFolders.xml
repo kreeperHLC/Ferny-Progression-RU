@@ -1,0 +1,19 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="ferny.progressioncore">Progression Core</li>
+    <li IfModActive="ferny.progressionaesthetics">Progression Aesthetics</li>
+    <li IfModActive="ferny.progressionhospitality">Progression Hospitality</li>
+    <li IfModActive="ferny.progressiongenetics">Progression Genetics</li>
+    <li IfModActive="ferny.lightingcategory">Lighting Category</li>
+    <li IfModActive="ferny.hivecategory">Hive Category</li>
+    <li IfModActive="ferny.combatcategory">Combat Category</li>
+    <li IfModActive="ferny.environmentcategory">Environment Category</li>
+    <li IfModActive="ferny.culturecategory">Culture Category</li>
+    <li IfModActive="ferny.automationcategory">Automation Category</li>
+    <li IfModActive="ferny.transportcategory">Transport Category</li>
+    <li IfModActive="ferny.animalscategory">Animals Category</li>
+    <li IfModActive="ferny.outreachcategory">Outreach Category</li>
+    <li IfModActive="ferny.ambiguousanomaly">Ambiguous Anomaly</li>
+  </v1.5>
+</loadFolders>

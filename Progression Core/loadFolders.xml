@@ -1,0 +1,6 @@
+<loadFolders>  
+  <v1.5>
+	<li>/</li>
+	<li IfModActive="aossi.techbackground">aossi_techbackground</li>
+	</v1.5>
+</loadFolders>

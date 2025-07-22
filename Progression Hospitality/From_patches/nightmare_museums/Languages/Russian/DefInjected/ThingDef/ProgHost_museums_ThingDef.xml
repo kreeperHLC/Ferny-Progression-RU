@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\nightmare_museums\museums patch1.xml-->
+  <!--                 EN: observation glass wall -->
+  <Museums_GlassWall.label>обзорная стеклянная стена</Museums_GlassWall.label>
+  <!--                           EN: reinforced observation glass wall -->
+  <Museums_ReinforcedGlassWall.label>укреплённая обзорная стеклянная стена</Museums_ReinforcedGlassWall.label>
+</LanguageData>

@@ -1,0 +1,89 @@
+<ModMetaData>
+	<name>Ferny's Progression: RU</name>
+	<author>KreeperHLC</author>
+	<packageId>KreeperHLC.ferny.progression</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>ferny.progressioncore</li>
+		<li>ferny.progressionaesthetics</li>
+		<li>ferny.progressionhospitality</li>
+		<li>ferny.progressiongenetics</li>
+		<li>ferny.lightingcategory</li>
+		<li>ferny.hivecategory</li>
+		<li>ferny.combatcategory</li>
+		<li>ferny.environmentcategory</li>
+		<li>ferny.culturecategory</li>
+		<li>ferny.automationcategory</li>
+		<li>ferny.transportcategory</li>
+		<li>ferny.animalscategory</li>
+		<li>ferny.outreachcategory</li>
+		<li>ferny.ambiguousanomaly</li>
+	</loadAfter>
+	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
+Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
+
+Progression: Kitchen
+Интегрирует различную еду в систему оригинальной игры.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3424640315
+
+Переводы с версии 1.5:
+Progression: Core
+Пройдите весь путь от племени вплоть до космоса.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3301868772
+
+Progression: Aesthetics
+Интегрирует различные декоративные моды в прогрессию оригинальной игры.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3294950875
+
+Progression: Hospitality
+Перестраивает и объединяет различные моды сферы обслуживания в более общую картину.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3265298940
+
+Progression: Genetics
+Интегрирует различные моды на генетику в прогрессию оригинальной игры.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3239506998
+
+Lighting Category
+Добавляет новую категорию «Освещение».
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3256303440
+
+Hive Category
+Переименовывает категорию инсектоидов в «Улей», перемещает её и добавляет ей иконку.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3310255881
+
+Combat Category
+Переименовывает категорию «Защита» в «Сражение» и перемещает туда некоторые строения.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3256231701
+
+Environment Category
+Добавляет новую категорию, посвященную окружающей среде.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3256966421
+
+Culture Category
+Переименовывает категорию «Идеология» в «Культура» и перемещает туда некоторые строения.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3159348487
+
+Automation Category
+Объединяет механоидов из дополнения «Biotech» и мода «Vanilla Factions Expanded Mechanoids» в новую категорию «Автоматизация».
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3138064708
+
+Transport Category
+Переименовывает категорию «Vehicles» (Транспорт в русском переводе «Vanilla Vehicles Expanded») в «Transport» (Транспорт в моём переводе) и перемещает в неё грузовые контейнеры.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3136085172
+
+Animals Category
+Добавляет новую категорию «Животные».
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3238028136
+
+Outreach Category
+Добавляет новую категорию «Охват», в которой содержатся все вещи для внешней связи с миром.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3252683569
+
+Ambiguous Anomaly
+Изменяет дополнение «Anomaly», переименовывая вещи из него, чтобы сделать их менее очевидными и более загадочными.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3266425876
+
+Если какая-то часть текста всё ещё на английском языке, то напишите об этом в комментариях.</description>
+</ModMetaData>

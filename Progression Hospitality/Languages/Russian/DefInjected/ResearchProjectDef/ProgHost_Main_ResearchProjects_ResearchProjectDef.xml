@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Defs\Main_ResearchProjects.xml-->
+  <!--                     EN: Basic retail -->
+  <Ferny_NeolithicRetail.label>Базовая розничная торговля</Ferny_NeolithicRetail.label>
+  <!--                           EN: Begin building simple structures capable of making money from visitors. -->
+  <Ferny_NeolithicRetail.description>Начните строить простые структуры, способные помочь зарабатывать на посетителях.</Ferny_NeolithicRetail.description>
+
+  <!--                 EN: Industrial retail -->
+  <Ferny_BasicRetail.label>Промышленная розничная торговля</Ferny_BasicRetail.label>
+  <!--                       EN: Begin building mechanisms capable of making money from visitors through sales. -->
+  <Ferny_BasicRetail.description>Начните строить механизмы, способные зарабатывать на посетителях с помощью продаж.</Ferny_BasicRetail.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="LimeTreeSnake.Furnishing">Mods and Shit/[LTS]Furnishing</li>
+		<li IfModActive="dankpyon.medieval.overhaul">From_patches/dankpyon_medieval_overhaul</li>
+		<li IfModActive="ReGrowth.BOTR.Core">From_patches/ReGrowth_BOTR_Core</li>
+		<li IfModActive="vanillaexpanded.vfearchitect">From_patches/vanillaexpanded_vfearchitect</li>
+	</v1.5>
+</loadFolders>

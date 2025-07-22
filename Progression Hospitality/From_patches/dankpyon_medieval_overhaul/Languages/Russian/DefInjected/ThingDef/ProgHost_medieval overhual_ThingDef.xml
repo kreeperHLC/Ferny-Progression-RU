@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhual patch4.xml-->
+  <!--                      EN: market tent (red) -->
+  <DankPyon_MarketTent_1c.label>торговая палатка (Красная)</DankPyon_MarketTent_1c.label>
+  <!--                      EN: market tent (blue) -->
+  <DankPyon_MarketTent_2c.label>торговая палатка (Синяя)</DankPyon_MarketTent_2c.label>
+  <!--                      EN: market tent (lime) -->
+  <DankPyon_MarketTent_3c.label>торговая палатка (Зелёная)</DankPyon_MarketTent_3c.label>
+  <!--                      EN: market tent (black and white) -->
+  <DankPyon_MarketTent_4c.label>торговая палатка (Чёрная с белым)</DankPyon_MarketTent_4c.label>
+  <!--                      EN: market tent (black and yellow) -->
+  <DankPyon_MarketTent_5c.label>торговая палатка (Чёрная с желтым)</DankPyon_MarketTent_5c.label>
+  <!--                      EN: market tent (white) -->
+  <DankPyon_MarketTent_6c.label>торговая палатка (Белая)</DankPyon_MarketTent_6c.label>
+  <!--                      EN: market tent (plain) -->
+  <DankPyon_MarketTent_7c.label>торговая палатка (Простая)</DankPyon_MarketTent_7c.label>
+</LanguageData>

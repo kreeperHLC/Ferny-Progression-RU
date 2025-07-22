@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Defs\DesignationCategories.xml-->
+  <!--                 EN: Environment -->
+  <Ferny_Environment.label>Окружение</Ferny_Environment.label>
+  <!--                       EN: Things that interact with the environment. -->
+  <Ferny_Environment.description>Вещи, которые взаимодействуют с окружающей средой.</Ferny_Environment.description>
+</LanguageData>
