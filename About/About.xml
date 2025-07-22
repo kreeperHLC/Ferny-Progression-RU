@@ -22,6 +22,7 @@
 		<li>ferny.outreachcategory</li>
 		<li>ferny.ambiguousanomaly</li>
 		<li>ferny.progressionkitchen</li>
+		<li>ferny.bedroomcategory</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
@@ -29,6 +30,10 @@
 Progression: Kitchen
 Интегрирует различную еду в систему оригинальной игры.
 https:/steamcommunity.com/sharedfiles/filedetails/?id=3424640315
+
+Bedroom Category
+Добавляет новую категорию «Спальня».
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3339096278
 
 Переводы с версии 1.5:
 Progression: Core
