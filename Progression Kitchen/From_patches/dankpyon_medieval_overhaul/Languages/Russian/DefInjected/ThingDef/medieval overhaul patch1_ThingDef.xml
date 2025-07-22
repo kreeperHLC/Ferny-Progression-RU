@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhaul patch1.xml -->
+	<!--                           EN: basic cooking table -->
+	<DankPyon_RusticCookingTable.label>базовый стол для готовки</DankPyon_RusticCookingTable.label>
+	<!--                  EN: oven -->
+	<DankPyon_StoneOven.label>печь</DankPyon_StoneOven.label>
+</LanguageData>
