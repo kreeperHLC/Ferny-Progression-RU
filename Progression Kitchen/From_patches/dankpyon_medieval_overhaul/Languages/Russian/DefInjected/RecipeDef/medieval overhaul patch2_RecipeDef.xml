@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhaul patch2.xml -->
 	<!--                            EN: seared sausages -->
@@ -5,7 +6,7 @@
 	<!--                          EN: seared cheese -->
 	<DankPyon_MealGrilledCheese.label>обжаренный сыр</DankPyon_MealGrilledCheese.label>
 	<!--                           EN: seared skewers -->
-	<DankPyon_MealGrilledSkewers.label>мясо на шампуре</DankPyon_MealGrilledSkewers.label>
+	<DankPyon_MealGrilledSkewers.label>шашлык</DankPyon_MealGrilledSkewers.label>
 	<!--                                EN: sear sausages -->
 	<DankPyon_CookMealGrilledSausages.label>обжарить сосиски</DankPyon_CookMealGrilledSausages.label>
 	<!--                                      EN: Sear a straightforward meal from sausages. -->
@@ -21,11 +22,11 @@
 	<!--                                  EN: sear cheese x5 -->
 	<DankPyon_CookMealGrilledCheeseBulk.label>обжарить сыр x5</DankPyon_CookMealGrilledCheeseBulk.label>
 	<!--                               EN: sear skewers -->
-	<DankPyon_CookMealGrilledSkewers.label>обжарить мясо на шампуре</DankPyon_CookMealGrilledSkewers.label>
+	<DankPyon_CookMealGrilledSkewers.label>обжарить шашлык</DankPyon_CookMealGrilledSkewers.label>
 	<!--                                      EN: Sear a delicious meal from meat. -->
 	<DankPyon_CookMealGrilledSausages.description>Приготовить вкусное блюдо, обжарив мясо, нанизанное на шампур.</DankPyon_CookMealGrilledSausages.description>
 	<!--                                   EN: sear skewers x5 -->
-	<DankPyon_CookMealGrilledSkewersBulk.label>обжарить мясо на шампуре x5</DankPyon_CookMealGrilledSkewersBulk.label>
+	<DankPyon_CookMealGrilledSkewersBulk.label>обжарить шашлык x5</DankPyon_CookMealGrilledSkewersBulk.label>
 	<!--                                         EN: Sear delicious meals from meat in bulk. -->
 	<DankPyon_CookMealGrilledSkewersBulk.description>Приготовить 5 вкусных блюд, обжарив мясо, нанизанное на шампуры.</DankPyon_CookMealGrilledSkewersBulk.description>
 </LanguageData>

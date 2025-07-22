@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: A group of {0} shambling, rotting corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for dark knowledge. -->
   <LetterShamblerSwarmArrived>К вам ковыляет группа из {0} гниющих трупов. Какая-то нечеловеческая сила оживила эти тела и приказала им убивать.\n\nТеперь они будут бродить в этой области. Если они увидят человека, то нападут, если же нет, то уйдут через несколько дней.\n\nЗахватив и изучив кого-нибудь из них, вы можете получить тёмные знания.</LetterShamblerSwarmArrived>

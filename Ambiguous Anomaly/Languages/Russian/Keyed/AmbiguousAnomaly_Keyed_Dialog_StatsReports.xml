@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: The type and amount of dark knowledge that can be obtained when this entity is studied. More sophisticated entities can unlock more advanced dark research projects. -->
   <KnowledgeFromStudyDesc>Вид и объем знаний, которые можно получить, изучая эту тварь. Более сложные существа открывают продвинутые тёмные исследования.</KnowledgeFromStudyDesc>
