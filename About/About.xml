@@ -23,9 +23,14 @@
 		<li>ferny.ambiguousanomaly</li>
 		<li>ferny.progressionkitchen</li>
 		<li>ferny.bedroomcategory</li>
+		<li>ferny.progressionagriculture</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
+
+Progression: Agriculture
+Интегрирует различные моды на растения в прогрессию оригинальной игры.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3418017359
 
 Progression: Kitchen
 Интегрирует различную еду в систему оригинальной игры.

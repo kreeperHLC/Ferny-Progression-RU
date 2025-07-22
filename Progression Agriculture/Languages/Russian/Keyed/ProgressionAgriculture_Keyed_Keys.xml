@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- EN: Package {0} seed bundle -->
+	<PA.RecipeLabelMakeSeedBundle>Расфасовать семяна {lookup: {0}; Case; 1} в узелок</PA.RecipeLabelMakeSeedBundle>
+	<!-- EN: Craft a {0} seed bundle from {1} {2}. -->
+	<PA.RecipeDescriptionCraftSeedBundleFrom>Создать узелок семян {lookup: {0}; Case; 1} из {1} {lookup: {0}; Case; 1}.</PA.RecipeDescriptionCraftSeedBundleFrom>
+	<!-- EN: Packing {0} seeds. -->
+	<PA.RecipeJobStringPackingSeeds>Расфасовать семяна {lookup: {0}; Case; 1}.</PA.RecipeJobStringPackingSeeds>
+	<!-- EN: {0} seed bundle -->
+	<PA.SeedBundleLabelSeedBundle>Узелок семян {lookup: {0}; Case; 1}</PA.SeedBundleLabelSeedBundle>
+	<!-- EN: A bundle of seeds for {0}. Opening this seed bundle will allow the crop to be planted by your faction. -->
+	<PA.SeedBundleDescriptionBundleOfSeedsForCrop>Узелок семян {lookup: {0}; Case; 1}. Открыв его, ваши поселены получат возможность сажать растение, семяна которого находились в узелке.</PA.SeedBundleDescriptionBundleOfSeedsForCrop>
+	<!-- EN: {0} seeds! -->
+	<PA.CropUnlocked>Семяна {lookup: {0}; Case; 1}!</PA.CropUnlocked>
+	<!-- EN: The bundle contained a host of seeds, enough to sustain a {0} farm! Your faction can now grow {0}. -->
+	<PA.CropUnlockedDesc>Узелок содержал множество семян, достаточных для поддержания фермы {lookup: {0}; Case; 1}! Ваше поселение теперь может выращивать {lookup: {0}; Case; 3}.</PA.CropUnlockedDesc>
+	<!-- EN: Open {0} seed bundle -->
+	<PA.UnlockCrop>Открыть узелок семян {lookup: {0}; Case; 1}</PA.UnlockCrop>
+	<!-- EN: {0} already collected -->
+	<PA.CropAlreadyUnlocked>Семяна {lookup: {0}; Case; 1} уже получены</PA.CropAlreadyUnlocked>
+	<!-- EN: Seed bundle ingredient count: {0} -->
+	<PA.SeedBundleIngredientCount>Seed bundle ingredient count: {0}</PA.SeedBundleIngredientCount>
+	<!-- EN: {0} is not collected yet. -->
+	<PA.CropIsNotUnlocked>Семяна {lookup: {0}; Case; 1} ещё не получены.</PA.CropIsNotUnlocked>
+	<!-- EN: You have collected this bundle. -->
+	<PA.YouUnlockedSeed>Вы открыли узелок.</PA.YouUnlockedSeed>
+	<!-- EN: Nothing sowing. Click for menu. -->
+	<PA.NothingToSowYet>Нечего посадить. Нажмите для открытия мешю.</PA.NothingToSowYet>
+	<!-- EN: Open seed bundles in order to be able to sow plants. These can be found trading, raiding, or through quest rewards. -->
+	<PA.UnlockNewSeeds>Откройте узелок семян, чтобы получить возможность их сажать. Их можно изготовить, выторговать или найти в мире.</PA.UnlockNewSeeds>
+	<!-- EN: {0} (owned) -->
+	<PA.UnlockedSeedLabel>{0} (имеется)</PA.UnlockedSeedLabel>
+	<!-- EN: Start with seed bundles -->
+	<PA.ScenPart_StartingSeeds>Начало с узелком семян</PA.ScenPart_StartingSeeds>
+</LanguageData>

@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings.xml -->
+	<!--                EN: Seed packing bench -->
+	<SeedPackingBench.label>Стол для фасовки семян</SeedPackingBench.label>
+	<!--                      EN: A workbench for packing seed bundles from harvested crops. -->
+	<SeedPackingBench.description>Стол для фасовки из собранных вами растений семян в узелок.</SeedPackingBench.description>
+	
+	<!--                       EN: Seed packing spot -->
+	<SeedPackingCraftingSpot.label>Место для фасовки семян</SeedPackingCraftingSpot.label>
+	<!--                             EN: A spot for packing seed bundles from harvested crops at double the cost of a traditional packing bench. -->
+	<SeedPackingCraftingSpot.description>Место для фасовки семян из собранных вами растений в узелок, взамен требуя от вас в два раза больше растений.</SeedPackingCraftingSpot.description>
+</LanguageData>

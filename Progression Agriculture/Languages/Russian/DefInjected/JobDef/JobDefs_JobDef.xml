@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\JobDefs.xml -->
+	<!--          EN: unlock crop -->
+	<UnlockCrop.label>разблокировать растение</UnlockCrop.label>
+	<!--                 EN: Unlocking {0}. -->
+	<UnlockCrop.reportString>{0} разблокировано.</UnlockCrop.reportString>
+</LanguageData>

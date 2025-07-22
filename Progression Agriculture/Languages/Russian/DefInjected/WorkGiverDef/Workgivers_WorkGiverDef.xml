@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\Workgivers.xml -->
+	<!--                   EN: make seed bundles -->
+	<DoBillsPackingSeeds.label>изготовить узелок семян</DoBillsPackingSeeds.label>
+	<!--                  EN: make seed bundle -->
+	<DoBillsPackingSeeds.verb>изготовить узелок семян</DoBillsPackingSeeds.verb>
+	<!--                    EN: making seed bundle at -->
+	<DoBillsPackingSeeds.gerund>изготовить узелок семян, используя</DoBillsPackingSeeds.gerund>
+</LanguageData>
