@@ -4,6 +4,7 @@
 	<packageId>KreeperHLC.ferny.progression</packageId>
 	<supportedVersions>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<loadAfter>
 		<li>ferny.progressioncore</li>
@@ -20,6 +21,7 @@
 		<li>ferny.animalscategory</li>
 		<li>ferny.outreachcategory</li>
 		<li>ferny.ambiguousanomaly</li>
+		<li>ferny.progressionkitchen</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
