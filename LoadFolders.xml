@@ -15,8 +15,8 @@
     <li IfModActive="ferny.animalscategory">Animals Category</li>
     <li IfModActive="ferny.outreachcategory">Outreach Category</li>
     <li IfModActive="ferny.ambiguousanomaly">Ambiguous Anomaly</li>
-    <li IfModActive="ferny.progressionkitchen">Progression: Kitchen</li>
+    <li IfModActive="ferny.progressionkitchen">Progression Kitchen</li>
     <li IfModActive="ferny.bedroomcategory">Bedroom Category</li>
-    <li IfModActive="ferny.progressionagriculture">Progression: Agriculture</li>
+    <li IfModActive="ferny.progressionagriculture">Progression Agriculture</li>
   </v1.5>
 </loadFolders>
