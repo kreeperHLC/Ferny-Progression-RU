@@ -5,7 +5,7 @@
 	<!-- EN: Craft a {0} seed bundle from {1} {2}. -->
 	<PA.RecipeDescriptionCraftSeedBundleFrom>Создать узелок семян {lookup: {0}; Case; 1} из {1} {lookup: {0}; Case; 1}.</PA.RecipeDescriptionCraftSeedBundleFrom>
 	<!-- EN: Packing {0} seeds. -->
-	<PA.RecipeJobStringPackingSeeds>Расфасовать семяна {lookup: {0}; Case; 1}.</PA.RecipeJobStringPackingSeeds>
+	<PA.RecipeJobStringPackingSeeds>Расфасовывает семяна {lookup: {0}; Case; 1}.</PA.RecipeJobStringPackingSeeds>
 	<!-- EN: {0} seed bundle -->
 	<PA.SeedBundleLabelSeedBundle>Узелок семян {lookup: {0}; Case; 1}</PA.SeedBundleLabelSeedBundle>
 	<!-- EN: A bundle of seeds for {0}. Opening this seed bundle will allow the crop to be planted by your faction. -->

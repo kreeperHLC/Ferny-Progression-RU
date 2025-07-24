@@ -4,5 +4,5 @@
 	<!--          EN: unlock crop -->
 	<UnlockCrop.label>разблокировать растение</UnlockCrop.label>
 	<!--                 EN: Unlocking {0}. -->
-	<UnlockCrop.reportString>{0} разблокировано.</UnlockCrop.reportString>
+	<UnlockCrop.reportString>Открывает {lookup: {0}; Case; 1}.</UnlockCrop.reportString>
 </LanguageData>
