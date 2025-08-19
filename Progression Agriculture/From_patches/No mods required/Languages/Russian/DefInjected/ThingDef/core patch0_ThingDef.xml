@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\core patch0.xml -->
-	<!--        EN: plant decoration -->
-	<PlantPot.label>горшок для декоративных растений</PlantPot.label>
-</LanguageData>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="PlantPot"]/label</xpath>
+        <value>
+            <label>горшок для декоративных растений</label>
+        </value>
+    </Operation>
+</Patch>

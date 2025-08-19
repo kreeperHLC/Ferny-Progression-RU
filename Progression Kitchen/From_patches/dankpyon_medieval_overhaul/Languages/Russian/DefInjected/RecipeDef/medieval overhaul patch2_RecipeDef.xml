@@ -1,32 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhaul patch2.xml -->
-	<!--                            EN: seared sausages -->
-	<DankPyon_MealGrilledSausages.label>обжаренные сосиски</DankPyon_MealGrilledSausages.label>
-	<!--                          EN: seared cheese -->
-	<DankPyon_MealGrilledCheese.label>обжаренный сыр</DankPyon_MealGrilledCheese.label>
-	<!--                           EN: seared skewers -->
-	<DankPyon_MealGrilledSkewers.label>шашлык</DankPyon_MealGrilledSkewers.label>
-	<!--                                EN: sear sausages -->
-	<DankPyon_CookMealGrilledSausages.label>обжарить сосиски</DankPyon_CookMealGrilledSausages.label>
-	<!--                                      EN: Sear a straightforward meal from sausages. -->
-	<DankPyon_CookMealGrilledSausages.description>Приготовить сосиски, обжарив их.</DankPyon_CookMealGrilledSausages.description>
-	<!--                                    EN: sear sausages x5 -->
-	<DankPyon_CookMealGrilledSausagesBulk.label>обжарить сосиски x5</DankPyon_CookMealGrilledSausagesBulk.label>
-	<!--                                          EN: Sear a straightforward meal from sausages in bulk. -->
-	<DankPyon_CookMealGrilledSausagesBulk.description>Приготовить 5 сосисок, обжарив их.</DankPyon_CookMealGrilledSausagesBulk.description>
-	<!--                              EN: sear cheese -->
-	<DankPyon_CookMealGrilledCheese.label>обжарить сыр</DankPyon_CookMealGrilledCheese.label>
-	<!--                                    EN: Sear cheese into a delicious meal. -->
-	<DankPyon_CookMealGrilledCheese.description>Приготовить вкусное блюдо, обжарив сыр.</DankPyon_CookMealGrilledCheese.description>
-	<!--                                  EN: sear cheese x5 -->
-	<DankPyon_CookMealGrilledCheeseBulk.label>обжарить сыр x5</DankPyon_CookMealGrilledCheeseBulk.label>
-	<!--                               EN: sear skewers -->
-	<DankPyon_CookMealGrilledSkewers.label>обжарить шашлык</DankPyon_CookMealGrilledSkewers.label>
-	<!--                                      EN: Sear a delicious meal from meat. -->
-	<DankPyon_CookMealGrilledSausages.description>Приготовить вкусное блюдо, обжарив мясо, нанизанное на шампур.</DankPyon_CookMealGrilledSausages.description>
-	<!--                                   EN: sear skewers x5 -->
-	<DankPyon_CookMealGrilledSkewersBulk.label>обжарить шашлык x5</DankPyon_CookMealGrilledSkewersBulk.label>
-	<!--                                         EN: Sear delicious meals from meat in bulk. -->
-	<DankPyon_CookMealGrilledSkewersBulk.description>Приготовить 5 вкусных блюд, обжарив мясо, нанизанное на шампуры.</DankPyon_CookMealGrilledSkewersBulk.description>
-</LanguageData>
+<Patch>
+	</Operation>
+		<match Class="PatchOperationSequence">
+    		<operations>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_MealGrilledSausages"]/label</xpath>
+                    <value>
+                        <label>обжаренные сосиски</label>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_MealGrilledCheese"]/label</xpath>
+                    <value>
+                        <label>обжаренный сыр</label>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_MealGrilledSkewers"]/label</xpath>
+                    <value>
+                        <label>шашлык</label>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSausages"]/label</xpath>
+                    <value>
+                        <label>обжарить сосиски</label>
+                    </value>
+                </li> 
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSausages"]/description</xpath>
+                    <value>
+                        <description>Приготовить сосиски, обжарив их.</description>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSausages"]/jobString</xpath>
+                    <value>
+                        <jobString>Обжаривает сосиски.</jobString>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSausagesBulk"]/label</xpath>
+                    <value>
+                        <label>обжарить сосиски x5</label>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSausagesBulk"]/description</xpath>
+                    <value>
+                        <description>Приготовить 5 сосисок, обжарив их..</description>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSausagesBulk"]/jobString</xpath>
+                    <value>
+                        <jobString>Обжаривает 5 сосисок.</jobString>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledCheese"]/label</xpath>
+                    <value>
+                        <label>обжарить сыр</label>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledCheese"]/description</xpath>
+                    <value>
+                        <description>Приготовить вкусное блюдо, обжарив сыр.</description>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledCheese"]/jobString</xpath>
+                    <value>
+                        <jobString>Обжаривает сыр.</jobString>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledCheeseBulk"]/label</xpath>
+                    <value>
+                        <label>обжарить сыр x5</label>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledCheeseBulk"]/description</xpath>
+                    <value>
+                        <jobString>Приготовить 5 вкусных блюд, обжарив сыр.</jobString>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledCheeseBulk"]/jobString</xpath>
+                    <value>
+                        <jobString>Обжаривает сыр.</jobString>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSkewers"]/label</xpath>
+                    <value>
+                        <label>обжарить шашлык</label>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSausages"]/description</xpath>
+                    <value>
+                        <description>Приготовить вкусное блюдо путём обжарки мяса, нанизанного на шампур.</description>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSausages"]/jobString</xpath>
+                    <value>
+                        <jobString>Обжаривает мясо на шампуре.</jobString>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSkewersBulk"]/label</xpath>
+                    <value>
+                        <label>обжарить шашлык x5</label>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSkewersBulk"]/description</xpath>
+                    <value>
+                        <description>Приготовить 5 вкусных блюд путём обжарки мяса, нанизанного на шампуры.</description>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/RecipeDef[defName="DankPyon_CookMealGrilledSkewersBulk"]/jobString</xpath>
+                    <value>
+                        <jobString>Обжаривает мясо на 5 шампурах.</jobString>
+                    </value>
+                </li>
+
+                </operations>
+		</match>
+	</Operation>
+</Patch>

@@ -1,6 +1,12 @@
 <loadFolders>  
   <v1.5>
-	<li>/</li>
-	<li IfModActive="aossi.techbackground">aossi_techbackground</li>
+    <li>/</li>
+    <li>From_patches/No mods required</li>
+		<li IfModActive="oskarpotocki.vfe.classical">From_patches/oskarpotocki_vfe_classical</li>
 	</v1.5>
+  <v1.6>
+    <li>/</li>
+    <li>From_patches/No mods required</li>
+		<li IfModActive="oskarpotocki.vfe.classical">From_patches/oskarpotocki_vfe_classical</li>
+	</v1.6>
 </loadFolders>

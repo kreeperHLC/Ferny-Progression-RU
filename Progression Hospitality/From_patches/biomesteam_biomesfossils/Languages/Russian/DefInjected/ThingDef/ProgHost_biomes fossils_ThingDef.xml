@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--\Grabbed_Defs_from_patches\biomesteam_biomesfossils\biomes fossils patch2.xml-->
-  <!--                EN: small fossil display -->
-  <BMT_DisplaySmall.label>экспозиция небольших окаменелостей</BMT_DisplaySmall.label>
-  <!--                 EN: medium fossil display -->
-  <BMT_DisplayMedium.label>экспозиция средних окаменелостей</BMT_DisplayMedium.label>
-  <!--                EN: large fossil display -->
-  <BMT_DisplayLarge.label>экспозиция больших окаменелостей</BMT_DisplayLarge.label>
-</LanguageData>
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="BMT_DisplaySmall"]/label</xpath>
+        <value>
+            <label>экспозиция небольшой окаменелости</label>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="BMT_DisplayMedium"]/label</xpath>
+        <value>
+            <label>экспозиция средней окаменелости</label>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="BMT_DisplayLarge"]/label</xpath>
+        <value>
+            <label>экспозиция большой окаменелости</label>
+        </value>
+    </Operation>
+</Patch>

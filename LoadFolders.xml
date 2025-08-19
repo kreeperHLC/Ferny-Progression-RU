@@ -7,7 +7,7 @@
     <li IfModActive="ferny.progressiongenetics">Progression Genetics</li>
     <li IfModActive="ferny.lightingcategory">Lighting Category</li>
     <li IfModActive="ferny.hivecategory">Hive Category</li>
-    <li IfModActive="ferny.combatcategory">Combat Category</li>
+    <li IfModActive="ferny.progressionwarfare">Progression Warfare</li>
     <li IfModActive="ferny.environmentcategory">Environment Category</li>
     <li IfModActive="ferny.culturecategory">Culture Category</li>
     <li IfModActive="ferny.automationcategory">Automation Category</li>
@@ -18,5 +18,7 @@
     <li IfModActive="ferny.progressionkitchen">Progression Kitchen</li>
     <li IfModActive="ferny.bedroomcategory">Bedroom Category</li>
     <li IfModActive="ferny.progressionagriculture">Progression Agriculture</li>
+    <li IfModActive="ferny.categoriesspots">Clean Categories Spots</li>
+    <li IfModActive="ferny.childhoodcategory">Childhood Category</li>
   </v1.5>
 </loadFolders>

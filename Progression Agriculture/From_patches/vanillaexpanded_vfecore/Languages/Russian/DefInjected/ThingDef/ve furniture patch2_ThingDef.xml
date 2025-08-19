@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\vanillaexpanded_vfecore\ve furniture patch2.xml -->
-	<!--                EN: modular plant decoration -->
-	<VFE_LongPlantPot.label>модульный горшок для декоративных растений</VFE_LongPlantPot.label>
-</LanguageData>
+<Patch>
+  	<Operation Class="PatchOperationReplace">
+    	<xpath>Defs/ThingDef[defName="VFE_LongPlantPot"]/label</xpath>
+    	<value>
+			<label>модульный горшок для декоративных растений</label>
+		</value>
+  	</Operation>
+</Patch>

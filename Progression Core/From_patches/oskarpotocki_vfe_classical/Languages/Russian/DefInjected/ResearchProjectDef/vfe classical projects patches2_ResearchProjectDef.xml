@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Togas"]/description</xpath>
+            <value>
+                <description>Пошив повседневной одежды — тог для жителей Республики.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Togas"]/label</xpath>
+            <value>
+                <label>Республиканские тоги</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_TemperatureControl"]/description</xpath>
+            <value>
+                <description>Создание большого примитивного пассивного охладителя и пассивного нагревателя, позволяющих изменять температуру в помещениях без использования электричества.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_TemperatureControl"]/label</xpath>
+            <value>
+                <label>Республиканский контроль температуры</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_MeatDrying"]/description</xpath>
+            <value>
+                <description>Создание стоек для сушки мяса, позволяющие продлить срок годности мяса и создать неолитический деликатес.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_MeatDrying"]/label</xpath>
+            <value>
+                <label>Республиканская сушка мяса</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Mosaics"]/description</xpath>
+            <value>
+                <description>Укладывание великолепных каменных мозаик различных цветов и форм. Требуют много времени.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Mosaics"]/label</xpath>
+            <value>
+                <label>Республиканская мозаика</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Thermaebath"]/description</xpath>
+            <value>
+                <description>Создание больших терм, использующих пар от гейзеров для купания вплоть до 8-ми человек. Имеют некоторую вероятность привести к групповой близости.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Thermaebath"]/label</xpath>
+            <value>
+                <label>Республиканские групповые бани</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_DramaAndComedy"]/description</xpath>
+            <value>
+                <description>Выступления на сцене театра, на которых можно играть разные роли для отдыха и развлечения.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_DramaAndComedy"]/label</xpath>
+            <value>
+                <label>Республиканские театры</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_HeavyShieldMaking"]/description</xpath>
+            <value>
+                <description>Создание скутум — тяжёлых щитов, ассоциируемых с легионерами.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_HeavyShieldMaking"]/label</xpath>
+            <value>
+                <label>Республиканские тяжёлые щиты</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_LegionaryArmaments"]/description</xpath>
+            <value>
+                <description>Создание палаток, метательных копий, спат и кинжалов позволят вашим поселенцам воевать эффективнее.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_LegionaryArmaments"]/label</xpath>
+            <value>
+                <label>Республиканское снабжение легиона</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_LegionnaireArmor"]/description</xpath>
+            <value>
+                <description>Создание тяжёлой брони легионеров, позволяющая выдерживать значительные раны.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_LegionnaireArmor"]/label</xpath>
+            <value>
+                <label>Республиканский доспех легионера</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_CenturionArmor"]/description</xpath>
+            <value>
+                <description>Создание брони центуриона, идеальной для  боевого лидера ваших поселенцев в героических баталиях.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_CenturionArmor"]/label</xpath>
+            <value>
+                <label>Республиканский доспех центуриона</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Scorpion"]/description</xpath>
+            <value>
+                <description>Развёртывание переносной полевой артиллерии в виде сдвоенного полуавтоматического арбалета.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Scorpion"]/label</xpath>
+            <value>
+                <label>Республиканский скорпион</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Beacons"]/description</xpath>
+            <value>
+                <description>Постройка больших сигнальных костров, с помощью которых можно подать знак для призыва подкреплений союзников.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_Beacons"]/label</xpath>
+            <value>
+                <label>Республиканский сигнальный огонь</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_BronzeWorking"]/description</xpath>
+            <value>
+                <description>Смешивание стали и каменных обломков для получения большого количества слегка уступающего по прочности стали металла.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_BronzeWorking"]/label</xpath>
+            <value>
+                <label>Республикаское производство бронзы</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_CraftingBench"]/description</xpath>
+            <value>
+                <description>Постройка рабочего места для создания таких простых вещей, как дубинок или луков.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_CraftingBench"]/label</xpath>
+            <value>
+                <label>Республиканский рабочий стол</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_CementMaking"]/description</xpath>
+            <value>
+                <description>Постройка цементного пресса, позволяющего создавать чрезвычайно прочный камень из обломков камней.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_CementMaking"]/label</xpath>
+            <value>
+                <label>Республиканское смешивание цемента</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_WoodfiredCrematorium"]/description</xpath>
+            <value>
+                <description>Постройка огромного дровяного каменного крематория для сожжения тел.<Build a huge, wood-fired stone crematorium which vaporizes corpses with high temperatures.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_WoodfiredCrematorium"]/label</xpath>
+            <value>
+                <label>Республиканский крематорий</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_TyrianProduction"]/description</xpath>
+            <value>
+                <description>Производство пурпура в речных фермах, которые окрашивают ткань в ценящийся среди знати пурпурный цвет.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_TyrianProduction"]/label</xpath>
+            <value>
+                <label>Республиканский пурпур</label>
+            </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_RoadBuilding"]/description</xpath>
+            <value>
+                <description>Прокладывание грунтовых, каменных дорог и простых троп на карте мира для ускорения караванов.\n\nВНИМАНИЕ: Этот проект имеет значительно повышенную стоимость изучения в связи с его закрытым характером. Более простым способом получения этого знания было бы непосредственное его изучение от неолитических республик, существующих в мире.</description>
+            </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ResearchProjectDef[defName="VFEC_RoadBuilding"]/label</xpath>
+            <value>
+                <label>Республиканское прокладывание дорог</label>
+            </value>
+    </Operation>
+</Patch>

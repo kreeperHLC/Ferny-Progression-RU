@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\vanillaexpanded_vcooke\ve cooking patch3.xml -->
-	<!--         EN: Electric grill -->
-	<VCE_Grill.label>Электрический гриль</VCE_Grill.label>
-</LanguageData>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="VCE_Grill"]/label</xpath>
+        <value>
+            <label>Электрический гриль</label>
+        </value>
+    </Operation>
+</Patch>

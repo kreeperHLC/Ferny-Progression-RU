@@ -1,8 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--\Grabbed_Defs_from_patches\Adamas_VendingMachines\vending machine patch0.xml-->
-  <!--                      EN: vending shelf -->
-  <MedievalVendingMachine.label>торговый стеллаж</MedievalVendingMachine.label>
-  <!--                            EN: A cheap option for vending to guests, an optimal choice for instances where you don't want to setup a full market zone or build vending machines. -->
-  <MedievalVendingMachine.description>Простой вариант торгового автомата для гостей, оптимальный выбор для тех случаев, когда вы не хотите создавать полноценную торговую зону или строить торговые автоматы.</MedievalVendingMachine.description>
-</LanguageData>
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="MedievalVendingMachine"]/label</xpath>
+        <value>
+            <label>торговый стеллаж</label>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="MedievalVendingMachine"]/description</xpath>
+        <value>
+            <label>Дешёвая замена торгового автомата для гостей, оптимальный выбор для тех случаев, когда вы не хотите создавать полноценную торговую зону или строить торговые автоматы.</label>
+        </value>
+    </Operation>
+</Patch>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\patch0.xml -->
-	<!--       EN: Brewing basics -->
-	<Brewing.label>Основы брожения</Brewing.label>
-</LanguageData>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ResearchProjectDef[defName="Brewing"]/label</xpath>
+        <value>
+            <label>Основы брожения</label>
+        </value>
+    </Operation>
+</Patch>

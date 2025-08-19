@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+        <xpath>Defs/DesignationCategoryDef[defName="Security"]/label</xpath>
+        <value>
+            <label>Сражение</label>
+        </value>
+    </Operation>
+</Patch>

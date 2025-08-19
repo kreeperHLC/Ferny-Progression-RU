@@ -3,5 +3,5 @@
   <!--              EN: Lighting -->
   <Ferny_Lighting.label>Освещение</Ferny_Lighting.label>
   <!--                    EN: Buildings that emit light. -->
-  <Ferny_Lighting.description>Постройки, которые излучают свет.</Ferny_Lighting.description>
+  <Ferny_Lighting.description>Объекты, связанные с излучением света.</Ferny_Lighting.description>
 </LanguageData>

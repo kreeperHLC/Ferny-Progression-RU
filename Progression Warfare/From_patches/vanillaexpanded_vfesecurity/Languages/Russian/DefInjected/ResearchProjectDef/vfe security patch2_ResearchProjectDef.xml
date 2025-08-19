@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+        <xpath>Defs/ResearchProjectDef[defName="VWE_TrenchWarfare"]/label</xpath>
+        <value>
+            <label>Продвинутая тактика</label>
+        </value>
+    </Operation>
+	<Operation Class="PatchOperationReplace">
+        <xpath>Defs/ResearchProjectDef[defName="VWE_TrenchWarfare"]/description</xpath>
+        <value>
+            <label>Применяйте передовые тактики ведения боевых действий для противодействия ближнему бою.</label>
+        </value>
+    </Operation>
+</Patch>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="VWE_Bow_Long"]/description</xpath>
+        <value>
+            <label>Длинный лук это массивное дальнобойное средневековое оружие, способное мощно выпускать стрелу на чрезвычайно большие расстояния.\n\nСтрелы, выпущенные из этого лука, летят так высоко, что избегают препятствий на пути.</label>
+        </value>
+    </Operation>
+</Patch>

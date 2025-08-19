@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhaul patch1.xml -->
-	<!--                     EN: tall planter box -->
-	<DankPyon_GardeningBox.label>длинный ящик для растений</DankPyon_GardeningBox.label>
-</LanguageData>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="DankPyon_GardeningBox"]/label</xpath>
+	      <value>
+	          <label>длинный ящик для растений</label>
+	      </value>
+    </Operation>
+</Patch>

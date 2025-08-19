@@ -13,7 +13,7 @@
 		<li>ferny.progressiongenetics</li>
 		<li>ferny.lightingcategory</li>
 		<li>ferny.hivecategory</li>
-		<li>ferny.combatcategory</li>
+		<li>ferny.progressionwarfare</li>
 		<li>ferny.environmentcategory</li>
 		<li>ferny.culturecategory</li>
 		<li>ferny.automationcategory</li>
@@ -24,6 +24,8 @@
 		<li>ferny.progressionkitchen</li>
 		<li>ferny.bedroomcategory</li>
 		<li>ferny.progressionagriculture</li>
+		<li>ferny.categoriesspots</li>
+		<li>ferny.childhoodcategory</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
@@ -36,9 +38,21 @@ Progression: Kitchen
 Интегрирует различную еду в систему оригинальной игры.
 https:/steamcommunity.com/sharedfiles/filedetails/?id=3424640315
 
+Progression: Warfare
+Переименовывает категорию «Защита» в «Сражение» и интегрирует различные боевые моды в прогрессию оригинальной игры.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3422293321
+
+Clean Categories: Spots
+Перемещает все места колонии в меню «Области».
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3416257407
+
 Bedroom Category
 Добавляет новую категорию «Спальня».
 https:/steamcommunity.com/sharedfiles/filedetails/?id=3339096278
+
+Childhood Category
+Добавляет новую категорию «Дети».
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3339092930
 
 Переводы с версии 1.5:
 Progression: Core
@@ -64,10 +78,6 @@ https:/steamcommunity.com/sharedfiles/filedetails/?id=3256303440
 Hive Category
 Переименовывает категорию инсектоидов в «Улей», перемещает её и добавляет ей иконку.
 https:/steamcommunity.com/sharedfiles/filedetails/?id=3310255881
-
-Combat Category
-Переименовывает категорию «Защита» в «Сражение» и перемещает туда некоторые строения.
-https:/steamcommunity.com/sharedfiles/filedetails/?id=3256231701
 
 Environment Category
 Добавляет новую категорию, посвященную окружающей среде.
