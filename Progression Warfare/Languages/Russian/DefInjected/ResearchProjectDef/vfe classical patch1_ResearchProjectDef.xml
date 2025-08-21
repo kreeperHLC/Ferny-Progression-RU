@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\oskarpotocki_vfe_classical\vfe classical patch1.xml -->
+	<!--             EN: Jewelry -->
+	<VFEC_Scorpion.label>Ювелирные изделия</VFEC_Scorpion.label>
+	<!--                   EN: Refine valuable jewels into wearable accessories. -->
+	<VFEC_Scorpion.description>Создавайте аксессуары из драгоценных камней.</VFEC_Scorpion.description>
+</LanguageData>

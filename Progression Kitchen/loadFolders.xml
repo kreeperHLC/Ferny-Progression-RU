@@ -1,9 +1,0 @@
-<loadFolders>
-  <v1.5>
-    <li>/</li>
-    <li IfModActive="vanillaexpanded.vcookesushi">Mods and Shit/VCE Sushi</li>
-    <li>From_patches/No mods required</li>
-		<li IfModActive="dankpyon.medieval.overhaul">From_patches/dankpyon_medieval_overhaul</li>
-		<li IfModActive="vanillaexpanded.vcooke">From_patches/vanillaexpanded_vcooke</li>
-	</v1.5>
-</loadFolders>

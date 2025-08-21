@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\core_patch0.xml -->
+	<!--         EN: torch -->
+	<TorchLamp.label>torch</TorchLamp.label>
+	<!--             EN: wall torch -->
+	<TorchWallLamp.label>wall torch</TorchWallLamp.label>
+	<!--           EN: chair -->
+	<DiningChair.label>chair</DiningChair.label>
+</LanguageData>

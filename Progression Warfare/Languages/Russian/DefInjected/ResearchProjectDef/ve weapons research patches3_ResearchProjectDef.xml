@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_vwe\ve weapons research patches4.xml -->
+	<!--                 EN: Craft longbows, a medieval equivalent to the sniper rifle. -->
+	<VWE_Longbow.description>Создавайте длинные луки, средневековый аналог снайперской винтовки.</VWE_Longbow.description>
+</LanguageData>

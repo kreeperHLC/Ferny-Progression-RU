@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhaul patch1.xml -->
+	
+	<!--                            EN: seared sausages -->
+	<DankPyon_MealGrilledSausages.label>обжаренные сосиски</DankPyon_MealGrilledSausages.label>
+	
+	<!--                          EN: seared cheese -->
+	<DankPyon_MealGrilledCheese.label>обжаренный сыр</DankPyon_MealGrilledCheese.label>
+	
+	<!--                           EN: seared skewers -->
+	<DankPyon_MealGrilledSkewers.label>шашлык</DankPyon_MealGrilledSkewers.label>
+	
+	<!--                                EN: sear sausages -->
+	<DankPyon_CookMealGrilledSausages.label>обжарить сосиски</DankPyon_CookMealGrilledSausages.label>
+	<!--                                      EN: Sear a straightforward meal from sausages. -->
+	<DankPyon_CookMealGrilledSausages.description>Приготовить сосиски, обжарив их.</DankPyon_CookMealGrilledSausages.description>
+	<!--                                    EN: Searing sausages. -->
+	<DankPyon_CookMealGrilledSausages.jobString>Обжаривает сосиски.</DankPyon_CookMealGrilledSausages.jobString>
+	
+	<!--                                    EN: sear sausages x5 -->
+	<DankPyon_CookMealGrilledSausagesBulk.label>обжарить сосиски x5</DankPyon_CookMealGrilledSausagesBulk.label>
+	<!--                                          EN: Sear a straightforward meal from sausages in bulk. -->
+	<DankPyon_CookMealGrilledSausagesBulk.description>Приготовить 5 сосисок, обжарив их.</DankPyon_CookMealGrilledSausagesBulk.description>
+	<!--                                        EN: Searing 5 sausages. -->
+	<DankPyon_CookMealGrilledSausagesBulk.jobString>Обжаривает 5 сосисок.</DankPyon_CookMealGrilledSausagesBulk.jobString>
+	
+	<!--                              EN: sear cheese -->
+	<DankPyon_CookMealGrilledCheese.label>обжарить сыр</DankPyon_CookMealGrilledCheese.label>
+	<!--                                    EN: Sear cheese into a delicious meal. -->
+	<DankPyon_CookMealGrilledCheese.description>Приготовить вкусное блюдо, обжарив сыр.</DankPyon_CookMealGrilledCheese.description>
+	<!--                                  EN: Searing cheese. -->
+	<DankPyon_CookMealGrilledCheese.jobString>Обжаривает сыр.</DankPyon_CookMealGrilledCheese.jobString>
+	
+	<!--                                  EN: sear cheese x5 -->
+	<DankPyon_CookMealGrilledCheeseBulk.label>обжарить сыр x5</DankPyon_CookMealGrilledCheeseBulk.label>
+	<!--                                      EN: Sear cheese in bulk into delicious meals. -->
+	<DankPyon_CookMealGrilledCheeseBulk.jobString>Приготовить 5 вкусных блюд, обжарив сыр.</DankPyon_CookMealGrilledCheeseBulk.jobString>
+	<!--                                      EN: Searing cheese. -->
+	<DankPyon_CookMealGrilledCheeseBulk.jobString>Обжаривает сыр.</DankPyon_CookMealGrilledCheeseBulk.jobString>
+	
+	<!--                               EN: sear skewers -->
+	<DankPyon_CookMealGrilledSkewers.label>обжарить шашлык</DankPyon_CookMealGrilledSkewers.label>
+	
+	<!--                                      EN: Sear a delicious meal from meat. -->
+	<DankPyon_CookMealGrilledSausages.description>Приготовить вкусное блюдо путём обжарки мяса, нанизанного на шампур.</DankPyon_CookMealGrilledSausages.description>
+	<!--                                    EN: Searing skewers. -->
+	<DankPyon_CookMealGrilledSausages.jobString>Обжаривает мясо на шампуре.</DankPyon_CookMealGrilledSausages.jobString>
+	
+	<!--                                   EN: sear skewers x5 -->
+	<DankPyon_CookMealGrilledSkewersBulk.label>обжарить шашлык x5</DankPyon_CookMealGrilledSkewersBulk.label>
+	<!--                                         EN: Sear delicious meals from meat in bulk. -->
+	<DankPyon_CookMealGrilledSkewersBulk.description>Приготовить 5 вкусных блюд путём обжарки мяса, нанизанного на шампуры.</DankPyon_CookMealGrilledSkewersBulk.description>
+	<!--                                       EN: Searing 5 skewers. -->
+	<DankPyon_CookMealGrilledSkewersBulk.jobString>Обжаривает мясо на 5 шампурах.</DankPyon_CookMealGrilledSkewersBulk.jobString>
+</LanguageData>

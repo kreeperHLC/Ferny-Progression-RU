@@ -1,9 +1,0 @@
-<loadFolders>
-  <v1.5>
-    <li>/</li>
-    <li IfModActive="mlie.enterhere">From_patches/mlie_enterhere</li>
-		<li IfModActive="vanillastorytellersexpanded.winstonwave">From_patches/vanillastorytellersexpanded_winstonwave</li>
-		<li IfModActive="mlie.prisonerarena">From_patches/mlie_prisonerarena</li>
-		<li IfModActive="adamas.hospital">From_patches/adamas_hospital</li>
-	</v1.5>
-</loadFolders>

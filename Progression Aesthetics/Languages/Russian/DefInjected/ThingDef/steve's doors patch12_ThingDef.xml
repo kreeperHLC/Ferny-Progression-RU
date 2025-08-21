@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\scurvyez_stevesdoors\steve's doors patch12.xml -->
+	<!--                         EN: double portal spacer door (2x1) -->
+	<SD_GlassDoorDoubleTESTING.label>double portal spacer door (2x1)</SD_GlassDoorDoubleTESTING.label>
+	<!--                   EN: laser door (1x1) -->
+	<SD_LaserDoorDefault.label>laser door (1x1)</SD_LaserDoorDefault.label>
+	<!--                   EN: spacer door (1x1) -->
+	<SD_GlassDoorDefault.label>spacer door (1x1)</SD_GlassDoorDefault.label>
+	<!--                         EN: sliding spacer door (1x1) -->
+	<SD_GlassDoorSlidingSingle.label>sliding spacer door (1x1)</SD_GlassDoorSlidingSingle.label>
+	<!--                              EN: rolling vault spacer door (1x1) -->
+	<SD_GlassDoorRollingVaultSingle.label>rolling vault spacer door (1x1)</SD_GlassDoorRollingVaultSingle.label>
+	<!--                        EN: angled-fading spacer door (1x1) -->
+	<SD_GlassDoorAngledFading.label>angled-fading spacer door (1x1)</SD_GlassDoorAngledFading.label>
+	<!--                 EN: arrow spacer door (1x1) -->
+	<SD_GlassDoorArrow.label>arrow spacer door (1x1)</SD_GlassDoorArrow.label>
+	<!--                   EN: slanted spacer door (1x1) -->
+	<SD_GlassDoorSlanted.label>slanted spacer door (1x1)</SD_GlassDoorSlanted.label>
+	<!--                EN: iris spacer door (1x1) -->
+	<SD_GlassDoorIris.label>iris spacer door (1x1)</SD_GlassDoorIris.label>
+	<!--                        EN: enhanced iris spacer door (1x1) -->
+	<SD_GlassDoorIrisEnhanced.label>enhanced iris spacer door (1x1)</SD_GlassDoorIrisEnhanced.label>
+	<!--                  EN: portal spacer door (1x1) -->
+	<SD_GlassDoorPortal.label>portal spacer door (1x1)</SD_GlassDoorPortal.label>
+	<!--                              EN: double enhanced iris spacer door (2x1) -->
+	<SD_GlassDoorIrisEnhancedDouble.label>double enhanced iris spacer door (2x1)</SD_GlassDoorIrisEnhancedDouble.label>
+	<!--                         EN: double spacer door (2x1) -->
+	<SD_GlassDoorDoubleDefault.label>double spacer door (2x1)</SD_GlassDoorDoubleDefault.label>
+	<!--                           EN: double cascading spacer door (2x1) -->
+	<SD_GlassDoorDoubleCascading.label>double cascading spacer door (2x1)</SD_GlassDoorDoubleCascading.label>
+</LanguageData>

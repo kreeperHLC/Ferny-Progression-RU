@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\prog patches0.xml -->
+	<!--                    EN: You have successfully completed enough pre-neolithic research projects and have advanced to neolithic tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+	<VFET_FormTribe.description>Вы завершили достаточно исследований животного уровня и перешли к неолитическому техническому уровню. Теперь вы можете выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_FormTribe.description>
+	<!--                   EN: You have successfully completed enough neolithic research projects and have advanced to medieval tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+	<VFET_FormTown.description>Вы завершили достаточно исследований неолитического уровня и перешли к средневековому техническому уровню. Теперь вы можете выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_FormTown.description>
+	<!--                   EN: You have successfully completed enough medieval research projects and have advanced to industrial tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+	<VFET_FormCity.description>Вы завершили достаточно исследований средневекового уровня и перешли к индустриальному техническому уровню. Теперь вы можете выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_FormCity.description>
+	<!--                         EN: You have successfully completed enough industrial research projects and have advanced to spacer tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+	<VFET_FormCollective.description>Вы завершили достаточно исследований индустриального уровня и перешли к космическому техническому уровню. Теперь вы можете выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_FormCollective.description>
+	<!--                    EN: You have successfully completed enough spacer research projects and have advanced to ultratech tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+	<VFET_FormNexus.description>Вы завершили достаточно исследований космического уровня и перешли к ультратехнологичному техническому уровню. Теперь вы можете выбрать ключевой принцип — мощный положительный эффект, распространяющийся только на вашу цивилизацию.</VFET_FormNexus.description>
+</LanguageData>

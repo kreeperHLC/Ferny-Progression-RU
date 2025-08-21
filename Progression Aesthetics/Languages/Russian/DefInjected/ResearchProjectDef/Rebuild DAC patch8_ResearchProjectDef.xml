@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rebuild_cotr_doorsandcorners\Rebuild DAC patch8.xml -->
+	<!--                        EN: Prison architecture -->
+	<Ferny_PrisonArchitecture.label>Prison architecture</Ferny_PrisonArchitecture.label>
+	<!--                              EN: Begin building structures that can keep prisoners contained. -->
+	<Ferny_PrisonArchitecture.description>Begin building structures that can keep prisoners contained.</Ferny_PrisonArchitecture.description>
+</LanguageData>

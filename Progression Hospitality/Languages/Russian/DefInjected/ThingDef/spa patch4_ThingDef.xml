@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\adamas_hospitalityspa\spa patch4.xml -->
+	<!--                  EN: electric sauna heater -->
+	<DBHSaunaHeaterElec.label>электрокаменка</DBHSaunaHeaterElec.label>
+	<!--                 EN: fueled sauna heater -->
+	<DBHSaunaHeaterLog.label>каменка</DBHSaunaHeaterLog.label>
+	<!--               EN: sauna seating -->
+	<DBHSaunaSeating.label>сиденья для сауны</DBHSaunaSeating.label>
+</LanguageData>

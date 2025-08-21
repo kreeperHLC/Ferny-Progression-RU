@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vanillaexpanded_vfesecurity\vfe security patch2.xml -->
+	<!--                 EN: Advanced tactics -->
+	<VWE_TrenchWarfare.label>Продвинутая тактика</VWE_TrenchWarfare.label>
+	<!--                       EN: Adapt advanced battlefield tactics with a selection of weapons for close-quarters combat. -->
+	<VWE_TrenchWarfare.description>Применение передовых тактик ведения боевых действий для противодействия ближнему бою.</VWE_TrenchWarfare.description>
+</LanguageData>

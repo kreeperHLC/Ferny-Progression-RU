@@ -1,0 +1,67 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Scurvyez_StevesWalls\steve's walls patch11.xml -->
+	<!--                         EN: illuminated glass wall -->
+	<SW_NormalGlitterGlassWall.label>illuminated glass wall</SW_NormalGlitterGlassWall.label>
+	<!--                              EN: (Alert) illuminated glass wall -->
+	<SW_NormalAlertGlitterGlassWall.label>(Alert) illuminated glass wall</SW_NormalAlertGlitterGlassWall.label>
+	<!--                       EN: illuminated blue glass wall -->
+	<SW_BlueGlitterGlassWall.label>illuminated blue glass wall</SW_BlueGlitterGlassWall.label>
+	<!--                            EN: (Alert) illuminated blue glass wall -->
+	<SW_BlueAlertGlitterGlassWall.label>(Alert) illuminated blue glass wall</SW_BlueAlertGlitterGlassWall.label>
+	<!--                        EN: illuminated green glass wall -->
+	<SW_GreenGlitterGlassWall.label>illuminated green glass wall</SW_GreenGlitterGlassWall.label>
+	<!--                             EN: (Alert) illuminated green glass wall -->
+	<SW_GreenAlertGlitterGlassWall.label>(Alert) illuminated green glass wall</SW_GreenAlertGlitterGlassWall.label>
+	<!--                         EN: illuminated yellow glass wall -->
+	<SW_YellowGlitterGlassWall.label>illuminated yellow glass wall</SW_YellowGlitterGlassWall.label>
+	<!--                              EN: (Alert) illuminated yellow glass wall -->
+	<SW_YellowAlertGlitterGlassWall.label>(Alert) illuminated yellow glass wall</SW_YellowAlertGlitterGlassWall.label>
+	<!--                         EN: illuminated orange glass wall -->
+	<SW_OrangeGlitterGlassWall.label>illuminated orange glass wall</SW_OrangeGlitterGlassWall.label>
+	<!--                              EN: (Alert) illuminated orange glass wall -->
+	<SW_OrangeAlertGlitterGlassWall.label>(Alert) illuminated orange glass wall</SW_OrangeAlertGlitterGlassWall.label>
+	<!--                      EN: illuminated red glass wall -->
+	<SW_RedGlitterGlassWall.label>illuminated red glass wall</SW_RedGlitterGlassWall.label>
+	<!--                           EN: (Alert) illuminated red glass wall -->
+	<SW_RedAlertGlitterGlassWall.label>(Alert) illuminated red glass wall</SW_RedAlertGlitterGlassWall.label>
+	<!--                       EN: illuminated pink glass wall -->
+	<SW_PinkGlitterGlassWall.label>illuminated pink glass wall</SW_PinkGlitterGlassWall.label>
+	<!--                            EN: (Alert) illuminated pink glass wall -->
+	<SW_PinkAlertGlitterGlassWall.label>(Alert) illuminated pink glass wall</SW_PinkAlertGlitterGlassWall.label>
+	<!--                         EN: illuminated purple glass wall -->
+	<SW_PurpleGlitterGlassWall.label>illuminated purple glass wall</SW_PurpleGlitterGlassWall.label>
+	<!--                              EN: (Alert) illuminated purple glass wall -->
+	<SW_PurpleAlertGlitterGlassWall.label>(Alert) illuminated purple glass wall</SW_PurpleAlertGlitterGlassWall.label>
+	<!--                          EN: rounded illuminated glass wall -->
+	<SW_RoundedGlitterGlassWall.label>rounded illuminated glass wall</SW_RoundedGlitterGlassWall.label>
+	<!--                               EN: (Alert) rounded illuminated glass wall -->
+	<SW_RoundedAlertGlitterGlassWall.label>(Alert) rounded illuminated glass wall</SW_RoundedAlertGlitterGlassWall.label>
+	<!--                              EN: blue rounded illuminated glass wall -->
+	<SW_BlueRoundedGlitterGlassWall.label>blue rounded illuminated glass wall</SW_BlueRoundedGlitterGlassWall.label>
+	<!--                                   EN: (Alert) blue rounded illuminated glass wall -->
+	<SW_BlueRoundedAlertGlitterGlassWall.label>(Alert) blue rounded illuminated glass wall</SW_BlueRoundedAlertGlitterGlassWall.label>
+	<!--                               EN: green rounded illuminated glass wall -->
+	<SW_GreenRoundedGlitterGlassWall.label>green rounded illuminated glass wall</SW_GreenRoundedGlitterGlassWall.label>
+	<!--                                    EN: (Alert) green rounded illuminated glass wall -->
+	<SW_GreenRoundedAlertGlitterGlassWall.label>(Alert) green rounded illuminated glass wall</SW_GreenRoundedAlertGlitterGlassWall.label>
+	<!--                                EN: yellow rounded illuminated glass wall -->
+	<SW_YellowRoundedGlitterGlassWall.label>yellow rounded illuminated glass wall</SW_YellowRoundedGlitterGlassWall.label>
+	<!--                                     EN: (Alert) yellow rounded illuminated glass wall -->
+	<SW_YellowRoundedAlertGlitterGlassWall.label>(Alert) yellow rounded illuminated glass wall</SW_YellowRoundedAlertGlitterGlassWall.label>
+	<!--                                EN: orange rounded illuminated glass wall -->
+	<SW_OrangeRoundedGlitterGlassWall.label>orange rounded illuminated glass wall</SW_OrangeRoundedGlitterGlassWall.label>
+	<!--                                     EN: (Alert) orange rounded illuminated glass wall -->
+	<SW_OrangeRoundedAlertGlitterGlassWall.label>(Alert) orange rounded illuminated glass wall</SW_OrangeRoundedAlertGlitterGlassWall.label>
+	<!--                             EN: red rounded illuminated glass wall -->
+	<SW_RedRoundedGlitterGlassWall.label>red rounded illuminated glass wall</SW_RedRoundedGlitterGlassWall.label>
+	<!--                                  EN: (Alert) red rounded illuminated glass wall -->
+	<SW_RedRoundedAlertGlitterGlassWall.label>(Alert) red rounded illuminated glass wall</SW_RedRoundedAlertGlitterGlassWall.label>
+	<!--                              EN: pink rounded illuminated glass wall -->
+	<SW_PinkRoundedGlitterGlassWall.label>pink rounded illuminated glass wall</SW_PinkRoundedGlitterGlassWall.label>
+	<!--                                   EN: (Alert) pink rounded illuminated glass wall -->
+	<SW_PinkRoundedAlertGlitterGlassWall.label>(Alert) pink rounded illuminated glass wall</SW_PinkRoundedAlertGlitterGlassWall.label>
+	<!--                                EN: purple rounded illuminated glass wall -->
+	<SW_PurpleRoundedGlitterGlassWall.label>purple rounded illuminated glass wall</SW_PurpleRoundedGlitterGlassWall.label>
+	<!--                                     EN: (Alert) purple rounded illuminated glass wall -->
+	<SW_PurpleRoundedAlertGlitterGlassWall.label>(Alert) purple rounded illuminated glass wall</SW_PurpleRoundedAlertGlitterGlassWall.label>
+</LanguageData>

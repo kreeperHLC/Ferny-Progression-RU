@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--Mods and Shit\Vending Machines\Defs\Main_ResearchProjects.xml-->
-  <!--                 EN: Basic retail -->
-  <Ferny_BasicRetail.label>Базовая розничная торговля</Ferny_BasicRetail.label>
-  <!--                       EN: Begin building mechanisms capable of making money from visitors through sales. -->
-  <Ferny_BasicRetail.description>Начните строить механизмы, способные зарабатывать на посетителях с помощью продаж.</Ferny_BasicRetail.description>
-</LanguageData>

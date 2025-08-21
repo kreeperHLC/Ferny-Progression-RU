@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_vwe\ve weapons research patches4.xml -->
+	<!--                  EN: Longbow is a massive long range medieval weapon, capable of firing a powerful arrow over extremely long distances.\n\nArrows fired from this bow fly overhead, avoiding getting stopped by obstacles. -->
+	<VWE_Bow_Long.description>Длинный лук это массивное дальнобойное средневековое оружие, способное мощно выпускать стрелу на чрезвычайно большие расстояния.\n\nСтрелы, выпущенные из этого лука, летят так высоко, что избегают препятствий на пути.</VWE_Bow_Long.description>
+</LanguageData>

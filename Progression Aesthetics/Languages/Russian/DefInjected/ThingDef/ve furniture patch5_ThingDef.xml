@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VFECore\ve furniture patch5.xml -->
+	
+	<!--                       EN: supreme table (2x2) -->
+	<DankPyon_RoyalTable2x2c.label>supreme table (2x2)</DankPyon_RoyalTable2x2c.label>
+	<!--                             EN: A ridiculously deluxe table superior to the standard royal fare. A table for only the truest of nobility. -->
+	<DankPyon_RoyalTable2x2c.description>A ridiculously deluxe table superior to the standard royal fare. A table for only the truest of nobility.</DankPyon_RoyalTable2x2c.description>
+	
+	<!--                       EN: supreme table (2x4) -->
+	<DankPyon_RoyalTable2x4c.label>supreme table (2x4)</DankPyon_RoyalTable2x4c.label>
+	<!--                             EN: A ridiculously deluxe table superior to the standard royal fare. A table for only the truest of nobility. -->
+	<DankPyon_RoyalTable2x4c.description>A ridiculously deluxe table superior to the standard royal fare. A table for only the truest of nobility.</DankPyon_RoyalTable2x4c.description>
+</LanguageData>

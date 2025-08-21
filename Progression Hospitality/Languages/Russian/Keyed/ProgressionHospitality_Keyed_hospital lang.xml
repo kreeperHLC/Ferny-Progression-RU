@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- EN: Guest patients -->
+	<PatientsTab>Пациенты</PatientsTab>
+	<!-- EN: Beds in use: {0}/{1} -->
+	<BedsFilled>Кроватей занято: {0}/{1}</BedsFilled>
+	<!-- EN: wounds -->
+	<DiagnosisWounds>раны</DiagnosisWounds>
+	<!-- EN: tend to wounds -->
+	<CureWounds>обработать раны</CureWounds>
+	<!-- EN: apply medicine -->
+	<CureDisease>применять препараты</CureDisease>
+	<!-- EN: problem with {0} -->
+	<DiagnosisSurgeryOnPart>проблема с {0}</DiagnosisSurgeryOnPart>
+	<!-- EN: needs an operation -->
+	<DiagnosisSurgeryNoPart>нуждается в операции</DiagnosisSurgeryNoPart>
+	<!-- EN: wants a {0} -->
+	<DiagnosisArtificialBodyPart>хочет {0}</DiagnosisArtificialBodyPart>
+	<!-- EN: Dismiss -->
+	<Dismiss>Отменить</Dismiss>
+	<!-- EN: Refuse operation -->
+	<Disallow>Отменить операцию</Disallow>
+	<!-- EN: Refused operations: -->
+	<RefusedOperations>Отменённые операции:</RefusedOperations>
+		<!-- settings -->
+	<!-- EN: Guest Hospital Policies... -->
+	<MapSettings>Управление госпиталем...</MapSettings>
+	<!-- EN: Hospital Policies -->
+	<HospitalSettings>Политика госпиталя</HospitalSettings>
+	<!-- EN: Accept guest patients -->
+	<AcceptPatients>Принимать пациентов</AcceptPatients>
+	<!-- EN: Uncheck this if you want to stop patients from visiting. -->
+	<AcceptPatientsTooltip>Снимите этот флажок, если хотите прекратить прибытие пациентов.</AcceptPatientsTooltip>
+	<!-- EN: Accept guest surgeries -->
+	<AcceptSurgery>Разрешить оперирование пациентов</AcceptSurgery>
+	<!-- EN: Uncheck this if you do not want to get surgery events. -->
+	<AcceptSurgeryTooltip>Снимите этот флажок, если хотите отменить события, связанные с операциями.</AcceptSurgeryTooltip>
+	<!-- EN: Allow guest patients during danger -->
+	<AcceptDanger>Разрешить прибытие пациентов при угрозах</AcceptDanger>
+	<!-- EN: check this if you want to override the check if the map if safe for patients to arrive -->
+	<AcceptDangerTooltip>Поставьте этот флажок, если хотите отменить проверку на безопасность для прибытия пациентов.</AcceptDangerTooltip>
+	<!-- EN: Silver multiplier -->
+	<SilverMultiplier>Мульпликатор серебра</SilverMultiplier>
+	<!-- EN: Changes the patients bill by this percentage. (recommended: 100%) -->
+	<SilverMultiplierTooltip>Изменяет стоимость лечения пациенов на этот процент (Рекомендуется: 100%).</SilverMultiplierTooltip>
+	<!-- EN: Beds reserved for colonists -->
+	<BedsReserved>Оставлять свободные кровати для поселенцев</BedsReserved>
+	<!-- EN: To make sure your beds are not all filled up with patients -->
+	<BedsReservedTooltip>Для того, чтобы все кровати не были заняты пациентами.</BedsReservedTooltip>
+	<!-- EN: Show message instead of letter -->
+	<ShowMessageAtArrival>Показывать сообщение вместо события</ShowMessageAtArrival>
+	<!-- EN: Shows as a message instead of a letter when a new patient arrives. -->
+	<ShowMessageAtArrivalTooltip>Заменяет оповещение при прибытии пациента с события на сообщение.</ShowMessageAtArrivalTooltip>
+	<!-- EN: Enable mass casualty events -->
+	<MassCasualties>Включить события катастрофы</MassCasualties>
+	<!-- EN: A MCE will sporadically overwhelm your hospital with patients. -->
+	<MassCasualtiesTooltip>Вам переодически будут оправлять большую группу пациентов.</MassCasualtiesTooltip>
+		<!-- button -->
+	<!-- EN: Guest hospital bed -->
+	<CommandBedSetAsHospitalLabel>Мед. кровать для гостей</CommandBedSetAsHospitalLabel>
+	<!-- EN: Whether this bed is for guest patients. -->
+	<CommandBedSetAsHospitalDesc>Должна ли эта кровать использоваться для прибывающих пациентов или нет.</CommandBedSetAsHospitalDesc>
+	<!-- EN: Guest surgery Bed -->
+	<CommandBedSetAsSurgeryLabel>Операционная кровать для гостей</CommandBedSetAsSurgeryLabel>
+	<!-- EN: Whether this bed is for guest surgery patients. -->
+	<CommandBedSetAsSurgeryDesc>Должна ли эта кровать использоваться для проведений операций над пациентами или нет.</CommandBedSetAsSurgeryDesc>
+
+	<!-- EN: A pandemic -->
+	<MCE_Pandemic>Пандемия</MCE_Pandemic>
+	<!-- EN: A big raid -->
+	<MCE_Raid>Большой налёт</MCE_Raid>
+	<!-- EN: A large plane crash -->
+	<MCE_Crash>Падение большого самолёта</MCE_Crash>
+	<!-- EN: A large building fire -->
+	<MCE_Fire>Пожар в крупном здании</MCE_Fire>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  	<!--\Grabbed_Defs_from_patches\nightmare_museums\museums patch1.xml-->
+  	<!--                 EN: observation glass wall -->
+  	<Museums_GlassWall.label>обзорная стеклянная стена</Museums_GlassWall.label>
+  	<!--                           EN: reinforced observation glass wall -->
+  	<Museums_ReinforcedGlassWall.label>укреплённая обзорная стеклянная стена</Museums_ReinforcedGlassWall.label>
+	<!--                   EN: museum bench (1x1) -->
+	<Museums_Bench_Small.label>музейная скамейка (1x1)</Museums_Bench_Small.label>
+	<!--                    EN: museum bench (1x2) -->
+	<Museums_Bench_Medium.label>музейная скамейка (1x2)</Museums_Bench_Medium.label>
+	<!--                   EN: museum bench (1x3) -->
+	<Museums_Bench_Large.label>музейная скамейка (1x3)</Museums_Bench_Large.label>
+</LanguageData>

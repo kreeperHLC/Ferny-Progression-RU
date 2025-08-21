@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--Mods and Shit\Cash Register\Defs\ThingDefs_Buildings.xml-->
-  <!--                 EN: Merchant box -->
-  <Ferny_MerchantBox.label>Купеческий ящик</Ferny_MerchantBox.label>
-  <!--                       EN: A merchant box, a low-tech workplace. From here you can manage your restaurant or shop. -->
-  <Ferny_MerchantBox.description>Купеческий ящик, низкотехнологичное рабочее место. Отсюда вы можете управлять своим рестораном или магазином.</Ferny_MerchantBox.description>
-</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Building_ArenaBell.label>Место бойцовской арены для заключённых</Building_ArenaBell.label>
+    <Building_ArenaBell.description>Арена, на которой будут происходить бои. Заключённые будут сражаться в пределах белой области, пока зрители будут смотреть в серой области.</Building_ArenaBell.description>
+</LanguageData>
