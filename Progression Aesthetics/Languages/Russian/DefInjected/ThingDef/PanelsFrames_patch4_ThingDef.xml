@@ -1,17 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\kongkim_panelsframes\PanelsFrames_patch4.xml -->
-	<!--                     EN: angular door frame -->
-	<DoorFrameX1Seamlessly.label>angular door frame</DoorFrameX1Seamlessly.label>
-	<!--              EN: large door frame -->
-	<DoorFrameX2Old.label>large door frame</DoorFrameX2Old.label>
-	<!--              EN: door frame -->
-	<DoorFrameX1Old.label>door frame</DoorFrameX1Old.label>
-	<!--             EN: door panel -->
-	<KK_DoorPanels.label>door panel</KK_DoorPanels.label>
-	<!--                  EN: door panel -->
-	<KK_DoorCenterPanel.label>door panel</KK_DoorCenterPanel.label>
-	<!--                EN: straight panel -->
-	<KKPanelsStraight.label>straight panel</KKPanelsStraight.label>
-	<!--              EN: corner panel -->
-	<KKPanelsCorner.label>corner panel</KKPanelsCorner.label>
+  <!-- _Translation\Grabbed_Defs_from_patches\kongkim_panelsframes\PanelsFrames_patch4.xml -->
+  <!--                     EN: angular door frame -->
+  <DoorFrameX1Seamlessly.label>угловой дверной проём</DoorFrameX1Seamlessly.label>
+  <!--              EN: large door frame -->
+  <DoorFrameX2Old.label>большой дверной проём</DoorFrameX2Old.label>
+  <!--              EN: door frame -->
+  <DoorFrameX1Old.label>дверной проём</DoorFrameX1Old.label>
+  <!--             EN: door panel -->
+  <KK_DoorPanels.label>дверной порог</KK_DoorPanels.label>
+  <!--                  EN: door panel -->
+  <KK_DoorCenterPanel.label>дверной порог</KK_DoorCenterPanel.label>
+  <!--                EN: straight panel -->
+  <KKPanelsStraight.label>прямой порог</KKPanelsStraight.label>
+  <!--              EN: corner panel -->
+  <KKPanelsCorner.label>угловой порог</KKPanelsCorner.label>
 </LanguageData>

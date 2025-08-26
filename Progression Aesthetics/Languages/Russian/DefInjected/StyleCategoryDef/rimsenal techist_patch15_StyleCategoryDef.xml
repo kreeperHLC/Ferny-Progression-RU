@@ -1,7 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_techist\rimsenal techist_patch15.xml -->
-	<!--       EN: Techpunk -->
-	<Techist.label>Techpunk</Techist.label>
-	<!--               EN: techist -->
-	<RimsenalTechist.label>techist</RimsenalTechist.label>
+  <!-- _Translation\Grabbed_Defs_from_patches\rimsenal_techist\rimsenal techist_patch15.xml -->
+  <!--       EN: Techpunk -->
+  <Techist.label>техпанк</Techist.label>
+  <!--               EN: techist -->
+  <RimsenalTechist.label>технологичный</RimsenalTechist.label>
 </LanguageData>

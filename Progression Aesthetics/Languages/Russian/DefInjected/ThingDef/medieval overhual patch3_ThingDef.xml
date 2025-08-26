@@ -1,5 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhual patch3.xml -->
-	<!--               EN: electric candelabra -->
-	<VFEE_Candelabra.label>electric candelabra</VFEE_Candelabra.label>
+  <!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhual patch3.xml -->
+  <!--               EN: electric candelabra -->
+  <VFEE_Candelabra.label>электрический канделябр</VFEE_Candelabra.label>
 </LanguageData>

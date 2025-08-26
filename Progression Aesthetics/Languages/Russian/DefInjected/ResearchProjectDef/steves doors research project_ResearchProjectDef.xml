@@ -1,7 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- 1.6\Mods and Shit\Steve's Doors\Defs\steves doors research project.xml -->
-	<!--                 EN: Spacer doors -->
-	<Ferny_SpacerDoors.label>Spacer doors</Ferny_SpacerDoors.label>
-	<!--                       EN: Construct stylish high-tech doors. -->
-	<Ferny_SpacerDoors.description>Construct stylish high-tech doors.</Ferny_SpacerDoors.description>
+  <!-- 1.6\Mods and Shit\Steve's Doors\Defs\steves doors research project.xml -->
+  <!--                 EN: Spacer doors -->
+  <Ferny_SpacerDoors.label>Космические двери</Ferny_SpacerDoors.label>
+  <!--                       EN: Construct stylish high-tech doors. -->
+  <Ferny_SpacerDoors.description>Создание стильных высокотехнологичных дверей.</Ferny_SpacerDoors.description>
 </LanguageData>

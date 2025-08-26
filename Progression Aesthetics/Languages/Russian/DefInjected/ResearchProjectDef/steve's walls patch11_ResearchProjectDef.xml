@@ -1,7 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\Scurvyez_StevesWalls\steve's walls patch11.xml -->
-	<!--                    EN: illuminated glass walls -->
-	<GlitterGlassResearch.label>illuminated glass walls</GlitterGlassResearch.label>
-	<!--                          EN: Highly customizable advanced walls, capable of warning of hostile presences and taking a good amount of damage. -->
-	<GlitterGlassResearch.description>Highly customizable advanced walls, capable of warning of hostile presences and taking a good amount of damage.</GlitterGlassResearch.description>
+  <!-- _Translation\Grabbed_Defs_from_patches\Scurvyez_StevesWalls\steve's walls patch11.xml -->
+  <!--                    EN: illuminated glass walls -->
+  <GlitterGlassResearch.label>Стеклянные стены с подсветкой</GlitterGlassResearch.label>
+  <!--                          EN: Highly customizable advanced walls, capable of warning of hostile presences and taking a good amount of damage. -->
+  <GlitterGlassResearch.description>Высоко настраиваемые усовершенствованные стены, способные предупреждать о присутствии врагов и выдерживать значительный урон.</GlitterGlassResearch.description>
 </LanguageData>

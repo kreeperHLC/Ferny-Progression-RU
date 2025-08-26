@@ -1,5 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\DSP_HalituisAmaricanous\dune style patch13.xml -->
-	<!--                  EN: Dunic -->
-	<DSP_Dune_StylePack.label>Dunic</DSP_Dune_StylePack.label>
+  <!-- _Translation\Grabbed_Defs_from_patches\DSP_HalituisAmaricanous\dune style patch13.xml -->
+  <!--                  EN: Dunic -->
+  <DSP_Dune_StylePack.label>дюнический</DSP_Dune_StylePack.label>
 </LanguageData>

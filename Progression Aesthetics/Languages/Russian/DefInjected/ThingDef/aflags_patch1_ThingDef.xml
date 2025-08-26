@@ -1,13 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\mlie_amnabisflags\aflags_patch1.xml -->
-	<!--            EN: Custom wall flag -->
-	<AMN_WallFlag.label>Custom wall flag</AMN_WallFlag.label>
-	<!--            EN: Custom flagpole -->
-	<AMN_PoleFlag.label>Custom flagpole</AMN_PoleFlag.label>
-	<!--                EN: Custom tall flagpole -->
-	<AMN_PoleFlagTall.label>Custom tall flagpole</AMN_PoleFlagTall.label>
-	<!--                    EN: Custom vertical flagpole -->
-	<AMN_PoleFlagVertical.label>Custom vertical flagpole</AMN_PoleFlagVertical.label>
-	<!--                        EN: Custom tall vertical flagpole -->
-	<AMN_PoleFlagTallVertical.label>Custom tall vertical flagpole</AMN_PoleFlagTallVertical.label>
+  <!-- _Translation\Grabbed_Defs_from_patches\mlie_amnabisflags\aflags_patch1.xml -->
+  <!--            EN: Custom wall flag -->
+  <AMN_WallFlag.label>пользовательский настенный флаг</AMN_WallFlag.label>
+  <!--            EN: Custom flagpole -->
+  <AMN_PoleFlag.label>пользовательский флагшток</AMN_PoleFlag.label>
+  <!--                EN: Custom tall flagpole -->
+  <AMN_PoleFlagTall.label>пользовательский высокий флагшток</AMN_PoleFlagTall.label>
+  <!--                    EN: Custom vertical flagpole -->
+  <AMN_PoleFlagVertical.label>пользовательский вертикальный флагшток</AMN_PoleFlagVertical.label>
+  <!--                        EN: Custom tall vertical flagpole -->
+  <AMN_PoleFlagTallVertical.label>пользовательский высокий вертикальный флагшток</AMN_PoleFlagTallVertical.label>
 </LanguageData>

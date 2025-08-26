@@ -1,27 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhual patch2.xml -->
-	<!--                       EN: royal research shelf -->
-	<DankPyon_RoyalBookshelf.label>королевская исследовательская полка</DankPyon_RoyalBookshelf.label>
-	<!--                        EN: research shelf -->
-	<DankPyon_RusticBookshelf.label>исследовательская полка</DankPyon_RusticBookshelf.label>
-	<!--                            EN: large research shelf -->
-	<DankPyon_RusticBookshelf1x2c.label>большая исследовательская полка</DankPyon_RusticBookshelf1x2c.label>
-	<!--                       EN: comfy red bed -->
-	<DankPyon_Bed_Rustic_Red.label>comfy red bed</DankPyon_Bed_Rustic_Red.label>
-	<!--                         EN: comfy green bed -->
-	<DankPyon_Bed_Rustic_Green.label>comfy green bed</DankPyon_Bed_Rustic_Green.label>
-	<!--                        EN: comfy blue bed -->
-	<DankPyon_Bed_Rustic_Blue.label>comfy blue bed</DankPyon_Bed_Rustic_Blue.label>
-	<!--                             EN: comfy red double bed -->
-	<DankPyon_Bed_RusticDouble_Red.label>comfy red double bed</DankPyon_Bed_RusticDouble_Red.label>
-	<!--                               EN: comfy green double bed -->
-	<DankPyon_Bed_RusticDouble_Green.label>comfy green double bed</DankPyon_Bed_RusticDouble_Green.label>
-	<!--                              EN: comfy blue double bed -->
-	<DankPyon_Bed_RusticDouble_Blue.label>comfy blue double bed</DankPyon_Bed_RusticDouble_Blue.label>
-	<!--                     EN: patchwall -->
-	<DankPyon_HideTentWall.label>patchwall</DankPyon_HideTentWall.label>
-	<!--                        EN: standing torch -->
-	<DankPyon_RusticTorchLamp.label>standing torch</DankPyon_RusticTorchLamp.label>
-	<!--                 EN: pressed cloth wall -->
-	<DankPyon_TentWall.label>pressed cloth wall</DankPyon_TentWall.label>
+  <!-- _Translation\Grabbed_Defs_from_patches\dankpyon_medieval_overhaul\medieval overhual patch2.xml -->
+  <!--                       EN: royal research shelf -->
+  <DankPyon_RoyalBookshelf.label>роскошная исследовательская полка</DankPyon_RoyalBookshelf.label>
+  <!--                        EN: research shelf -->
+  <DankPyon_RusticBookshelf.label>исследовательская полка</DankPyon_RusticBookshelf.label>
+  <!--                            EN: large research shelf -->
+  <DankPyon_RusticBookshelf1x2c.label>большая исследовательская полка</DankPyon_RusticBookshelf1x2c.label>
+  <!--                       EN: comfy red bed -->
+  <DankPyon_Bed_Rustic_Red.label>уютная красная кровать</DankPyon_Bed_Rustic_Red.label>
+  <!--                         EN: comfy green bed -->
+  <DankPyon_Bed_Rustic_Green.label>уютная зелёная кровать</DankPyon_Bed_Rustic_Green.label>
+  <!--                        EN: comfy blue bed -->
+  <DankPyon_Bed_Rustic_Blue.label>уютная синяя кровать</DankPyon_Bed_Rustic_Blue.label>
+  <!--                             EN: comfy red double bed -->
+  <DankPyon_Bed_RusticDouble_Red.label>уютная красная двойная кровать</DankPyon_Bed_RusticDouble_Red.label>
+  <!--                               EN: comfy green double bed -->
+  <DankPyon_Bed_RusticDouble_Green.label>уютная зелёная двойная кровать</DankPyon_Bed_RusticDouble_Green.label>
+  <!--                              EN: comfy blue double bed -->
+  <DankPyon_Bed_RusticDouble_Blue.label>уютная синяя двойная кровать</DankPyon_Bed_RusticDouble_Blue.label>
+  <!--                     EN: patchwall -->
+  <DankPyon_HideTentWall.label>панель</DankPyon_HideTentWall.label>
+  <!--                        EN: standing torch -->
+  <DankPyon_RusticTorchLamp.label>стоячий факел</DankPyon_RusticTorchLamp.label>
+  <!--                 EN: pressed cloth wall -->
+  <DankPyon_TentWall.label>пресованная тканевая стена</DankPyon_TentWall.label>
 </LanguageData>

@@ -1,0 +1,5 @@
+﻿// StyleCategoryDef
+
+// ThingDef
+стена с обоями
+

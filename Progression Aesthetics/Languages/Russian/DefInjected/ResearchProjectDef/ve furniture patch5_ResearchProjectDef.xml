@@ -1,5 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VFECore\ve furniture patch5.xml -->
-	<!--                 EN: Royal furniture -->
-	<MF_RoyalFurniture.label>Royal furniture</MF_RoyalFurniture.label>
+  <!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VFECore\ve furniture patch5.xml -->
+  <!--                 EN: Royal furniture -->
+  <MF_RoyalFurniture.label>Роскошная мебель</MF_RoyalFurniture.label>
 </LanguageData>
