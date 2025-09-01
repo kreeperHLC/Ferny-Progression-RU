@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vanillaexpanded_vfeproduction\vfe production patch1.xml -->
+	<!--                 EN: Large production benches -->
+	<VFE_Manufacturing.label>Продвинутые производственные столы</VFE_Manufacturing.label>
+	<!--                       EN: Build manufacturing benches of larger size and efficency. -->
+	<VFE_Manufacturing.description>Постройка производственных столов большего размера, взамен получая большую эффективность.</VFE_Manufacturing.description>
+</LanguageData>

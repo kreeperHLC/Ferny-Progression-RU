@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- Mods and Shit\Medieval Overhaul\Defs\medieval overhual projects.xml -->
+	<!--                           EN: Advanced research bench -->
+	<Ferny_AdvancedResearchBench.label>Advanced research bench</Ferny_AdvancedResearchBench.label>
+	<!--                                 EN: Research more complex technologies at increased speeds. -->
+	<Ferny_AdvancedResearchBench.description>Research more complex technologies at increased speeds.</Ferny_AdvancedResearchBench.description>
+	
+	<!--               EN: Workbench -->
+	<Ferny_Workbench.label>Верстак</Ferny_Workbench.label>
+	<!--                     EN: Construct a station capable of crafting basic items. -->
+	<Ferny_Workbench.description>Создание рабочего места, приспособленного для создания простых вещей.</Ferny_Workbench.description>
+	
+	<!--         EN: Ice management -->
+	<Ferny_Ice.label>Обработка льда</Ferny_Ice.label>
+	<!--               EN: Construct buildings based around managing and storing ice. -->
+	<Ferny_Ice.description>Создание построек, нацеленых на обработку и хранение льда.</Ferny_Ice.description>
+	
+	<!--             EN: Mending -->
+	<Ferny_Mending.label>Починка</Ferny_Mending.label>
+	<!--                   EN: Mend stuff -->
+	<Ferny_Mending.description>Починка вещей.</Ferny_Mending.description>
+	
+	<!--             EN: Writing -->
+	<Ferny_Writing.label>Писательство</Ferny_Writing.label>
+	<!--                   EN: Write stuff -->
+	<Ferny_Writing.description>Написание чего-либо.</Ferny_Writing.description>
+	
+	<!--                  EN: Loot cleaning -->
+	<Ferny_LootCleaning.label>Очистка добычи</Ferny_LootCleaning.label>
+	<!--                        EN: Clean loot gathered from adventures. -->
+	<Ferny_LootCleaning.description>Очистка добычи, полученной в приключениях.</Ferny_LootCleaning.description>
+	
+	<!--                        EN: Industrial smithing -->
+	<Ferny_IndustrialSmithing.label>Промышленная кузница</Ferny_IndustrialSmithing.label>
+	<!--                              EN: Construct stations capable of faster and more advanced smithing. -->
+	<Ferny_IndustrialSmithing.description>Создание рабочих мест, способных к более быстрому и продвинутому кузнечному делу.</Ferny_IndustrialSmithing.description>
+</LanguageData>

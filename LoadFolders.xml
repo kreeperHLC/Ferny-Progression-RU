@@ -20,5 +20,6 @@
     <li IfModActive="ferny.progressionagriculture">Progression Agriculture</li>
     <li IfModActive="ferny.categoriesspots">Clean Categories Spots</li>
     <li IfModActive="ferny.childhoodcategory">Childhood Category</li>
+    <li IfModActive="ferny.progressionproduction">Progression Production</li>
   </v1.5>
 </loadFolders>
