@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sbz_neatstorage\neat storage patch2.xml -->
+	<!--         EN: large container -->
+	<sbz_Crate.label>большой контейнер</sbz_Crate.label>
+	<!--            EN: medium container -->
+	<sbz_MidCrate.label>средний контейнер</sbz_MidCrate.label>
+	<!--              EN: small container -->
+	<sbz_SmallCrate.label>малый контейнер</sbz_SmallCrate.label>
+</LanguageData>

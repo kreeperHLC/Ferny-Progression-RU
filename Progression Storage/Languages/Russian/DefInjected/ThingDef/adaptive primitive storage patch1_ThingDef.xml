@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\adaptive_primitivestorage\adaptive primitive storage patch1.xml -->
+	<!--              EN: primitive weapon rack -->
+	<ASF_WeaponRack.label>примитивная стойка для оружия</ASF_WeaponRack.label>
+	<!--                  EN: covered pot -->
+	<ASF_CoveredClayPot.label>закрытый горшок</ASF_CoveredClayPot.label>
+	<!--                    EN: uncovered pot -->
+	<ASF_UncoveredClayPot.label>открытый горшок</ASF_UncoveredClayPot.label>
+</LanguageData>

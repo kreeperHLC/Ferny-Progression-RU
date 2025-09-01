@@ -24,11 +24,17 @@
 		<li>ferny.progressionkitchen</li>
 		<li>ferny.bedroomcategory</li>
 		<li>ferny.progressionagriculture</li>
+		<li>ferny.progressionstorage</li>
+		<li>ferny.progressionproduction</li>
 		<li>ferny.categoriesspots</li>
 		<li>ferny.childhoodcategory</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
+
+Progression: Storage
+Интегрирует различные моды на хранилища в прогрессию оригинальной игры.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3292746186
 
 Progression: Production
 Перерабатывает производственные исследования.

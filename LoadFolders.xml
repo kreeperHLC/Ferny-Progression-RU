@@ -21,5 +21,6 @@
     <li IfModActive="ferny.categoriesspots">Clean Categories Spots</li>
     <li IfModActive="ferny.childhoodcategory">Childhood Category</li>
     <li IfModActive="ferny.progressionproduction">Progression Production</li>
+    <li IfModActive="ferny.progressionstorage">Progression Storage</li>
   </v1.5>
 </loadFolders>
