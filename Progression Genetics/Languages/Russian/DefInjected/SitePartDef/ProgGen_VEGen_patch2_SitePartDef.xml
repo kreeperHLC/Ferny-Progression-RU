@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\vegenetics_patch1.xml-->
-  <!--               EN: abandoned bestiagenetics lab -->
-  <GR_AbandonedLab.label>заброшенная зверогенетическая лаборатория</GR_AbandonedLab.label>
-  <!--                     EN: A recently-discovered abandoned animal genetics lab. -->
-  <GR_AbandonedLab.description>Недавно обнаруженная заброшенная лаборатория по изучению генов животных.</GR_AbandonedLab.description>
-</LanguageData>

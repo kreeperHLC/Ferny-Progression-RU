@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphagenes\alphagenes_patch2.xml -->
+	<!-- EN: 
+		<li>questName(priority=1)->[biotechlab] [discovered]</li>
+		<li>biotechlab->Xenogenetics lab</li>
+		<li>biotechlab->Human genetics lab</li>
+		<li>biotechlab->Xenogenetic experimentation lab</li>
+		<li>biotechlab->Human genetic experimentation lab</li>
+		<li>discovered->discovered</li>
+		<li>discovered->found</li>
+		<li>discovered->located</li>
+		<li>discovered->brought to light</li>
+		<li>discovered->tracked down</li>
+		<li>discovered->unearthed</li>
+	 -->
+	<AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
+		<li>questName(priority=1)->[biotechlab] [discovered]</li>
+		<li>biotechlab->Ксеногенетическая лаборатория</li>
+		<li>biotechlab->Гуманоидная генетическая лаборатория</li>
+		<li>discovered->обнаружена</li>
+		<li>discovered->найдена</li>
+		<li>discovered->выявлена</li>
+		<li>discovered->локализована</li>
+		<li>discovered->раскрыта</li>
+		<li>discovered->отыскана</li>
+	</AG_OpportunitySite_AbandonedBiotechLab.questNameRules.rulesStrings>
+</LanguageData>

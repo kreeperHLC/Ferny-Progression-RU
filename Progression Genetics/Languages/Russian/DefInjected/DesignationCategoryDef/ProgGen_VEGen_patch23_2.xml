@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\vegenetics_patch1.xml-->
-  <!--              EN: Bestiagenics -->
-  <GR_GeneticsTab.label>Зверогенетика</GR_GeneticsTab.label>
-  <!--                    EN: Bestiagenic experimentation. -->
-  <GR_GeneticsTab.description>Зверогенетические эксперименты.</GR_GeneticsTab.description>
-</LanguageData>

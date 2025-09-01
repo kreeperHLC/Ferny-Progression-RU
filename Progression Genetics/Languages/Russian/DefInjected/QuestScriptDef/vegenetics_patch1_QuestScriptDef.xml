@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\vegenetics_patch1.xml -->
+	<!-- EN: 
+		<li>questDescription(askerIsNull==true)->We've intercepted radio transmissions from a seemingly abandoned animal genetics lab not far from [map_definite]. The site may have some interesting ancient technology scattered around, so it could be a good idea to investigate it.\n\nWe should be well prepared, as genetic monstrosities may still be roaming the derelict installation.</li>
+	 -->
+	<GR_OpportunitySite_AbandonedLab.questDescriptionRules.rulesStrings>
+		<li>questDescription(askerIsNull==true)->Мы перехватили радиосигналы из, по-видимому, заброшенной зверогенетической лаборатории, расположенной недалеко от [map_definite]. На территории объекта могут находиться интересные древние технологии, поэтому было бы неплохо его исследовать.\n\nМы должны быть хорошо подготовлены, так как по заброшенному объекту все еще могут бродить генетические чудовища.</li>
+	</GR_OpportunitySite_AbandonedLab.questDescriptionRules.rulesStrings>
+	<!-- EN: 
+		<li>questName(priority=1)->[journey] the [adjectiveLab] [ruins]</li>
+		<li>journey->Journey to</li>
+		<li>journey->Expedition to</li>
+		<li>journey->Mission to</li>
+		<li>journey->Exploration of</li>
+		<li>journey->Investigation of</li>
+		<li>journey->Research into</li>
+		<li>adjectiveLab->Abandoned</li>
+		<li>adjectiveLab->Derelict</li>
+		<li>adjectiveLab->Dilapidated</li>
+		<li>adjectiveLab->Run down</li>
+		<li>adjectiveLab->Desolate</li>
+		<li>ruins->bestiagenetics lab</li>
+		<li>ruins->bestiagenics installation</li>
+		<li>ruins->animal genetics laboratory</li>
+		<li>ruins->animal research post</li>
+	 -->
+	<GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings>
+		<li>questName(priority=1)->[journey] [adjectiveLab] [ruins]</li>
+		<li>journey->Приключения в</li>
+		<li>journey->Поисковая экспедиция в</li>
+		<li>journey->Миссия в</li>
+		<li>journey->Изучение</li>
+		<li>journey->Исследование</li>
+		<li>journey->Расследование</li>
+		<li>adjectiveLab->заброшенной</li>
+		<li>adjectiveLab->брошенной</li>
+		<li>adjectiveLab->обветшалой</li>
+		<li>adjectiveLab->отключённой</li>
+		<li>adjectiveLab->мёртвой</li>
+		<li>ruins->зверогенетической лаборатории</li>
+		<li>ruins->зверогенетической установки</li>
+		<li>ruins->лаборатории по изучению генов животных</li>
+		<li>ruins->лаборатории по исследованию животных</li>
+	</GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\vegenetics_patch1.xml -->
+	<!--                    EN: basic genetic sampling -->
+	<GR_GeneticAlteration.label>базовые генетические изменения</GR_GeneticAlteration.label>
+	<!--                          EN: Begin exploring the potential in extracting genetic material from creatures. Sample genoframes from wildlife and genes from your colonists for use in genetic alteration. -->
+	<GR_GeneticAlteration.description>Начальные исследования возможностей извлечения генетического материала из существ. Взятие образцов генофреймов у диких животных и генов у поселенцев для использования их в генетических изменениях.</GR_GeneticAlteration.description>
+	<!--                     EN: animal hybrids -->
+	<GR_GeneticEngineering.label>животные гибриды</GR_GeneticEngineering.label>
+	<!--                     EN: genome duplication -->
+	<GR_GeneticDuplication.label>размножение генома</GR_GeneticDuplication.label>
+	<!--                     EN: animal implants -->
+	<GR_HybridImplantology.label>животные импланты</GR_HybridImplantology.label>
+	<!--                       EN: human implants -->
+	<GR_GeneticCompatibility.label>гуманоидные импланты</GR_GeneticCompatibility.label>
+	<!--                            EN: biomechanical lab beacons -->
+	<GR_GeneticMechahybridization.label>иомеханические лабораторные маяки</GR_GeneticMechahybridization.label>
+	<!--               EN: Xenogerm assembly -->
+	<Xenogermination.label>создание ксеносемени</Xenogermination.label>
+	<!--                     EN: Begin producing xenotype altering xenogerms from extracted genes. -->
+	<Xenogermination.description>Начните производить ксеносемя, изменяющее ксенотип, из извлеченных генов.</Xenogermination.description>
+	<!--                           EN: Create new animal hybrids with the Genomorpher, gestate them in an Animal Electrowomb and create boosters at the Bestiagenics Tinkering Table. -->
+	<GR_GeneticEngineering.description>Создавайте новые гибриды с помощью геноморфера, выращивайте их в животной электробомбе и создавайте ускорители за столом зверогенетики.</GR_GeneticEngineering.description>
+</LanguageData>

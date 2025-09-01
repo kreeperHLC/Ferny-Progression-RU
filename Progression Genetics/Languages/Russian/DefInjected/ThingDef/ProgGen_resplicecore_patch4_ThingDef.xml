@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--\Grabbed_Defs_from_patches\resplice_xotr_core\resplicecore_patch3.xml-->
-  <!--                 EN: genepack centrifuge -->
-  <RS_GeneCentrifuge.label>Центрифуга для генных пакетов</RS_GeneCentrifuge.label>
-  <!--                     EN: xenogerm replicator -->
-  <RS_XenoGermDuplicator.label>Репликатор ксеногермов</RS_XenoGermDuplicator.label>
-</LanguageData>

@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- Mods and Shit\Resplice Core\Defs\resplicecore_defs.xml -->
+	<!--                        EN: genepack centrifuge -->
+	<Ferny_GenepackCentrifuge.label>центрифуга для генных пакетов</Ferny_GenepackCentrifuge.label>
+	<!--                              EN: Build a machine that can seperate genepacks, at the potential cost of losing all contained genes instead. -->
+	<Ferny_GenepackCentrifuge.description>Постройка машины, способной разделять генные пакеты ценой шанса потери всех содержащихся в них генов.</Ferny_GenepackCentrifuge.description>
+	
+	<!--                        EN: xenogerm replicator -->
+	<Ferny_XenogermReplicator.label>репликатор ксеногермов</Ferny_XenogermReplicator.label>
+	<!--                              EN: Build a machine that can duplicate xenogerms, even with archite genes given the right amount of material. -->
+	<Ferny_XenogermReplicator.description>Постройка машины, способной размножать ксеногермы даже с архитными генами при наличии необходимого количества материала.</Ferny_XenogermReplicator.description>
+</LanguageData>
