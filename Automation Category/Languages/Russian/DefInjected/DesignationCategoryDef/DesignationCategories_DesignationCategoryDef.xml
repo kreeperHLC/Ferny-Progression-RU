@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\DesignationCategories.xml -->
+	<!--                EN: Automation -->
+	<Ferny_Automation.label>Автоматизация</Ferny_Automation.label>
+	<!--                      EN: Things that automate stuff. -->
+	<Ferny_Automation.description>Объекты, связанные с автоматизацией.</Ferny_Automation.description>
+</LanguageData>
