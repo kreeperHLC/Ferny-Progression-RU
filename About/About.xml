@@ -3,7 +3,6 @@
 	<author>KreeperHLC</author>
 	<packageId>KreeperHLC.ferny.progression</packageId>
 	<supportedVersions>
-		<li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
 	<loadAfter>
@@ -28,9 +27,14 @@
 		<li>ferny.progressionproduction</li>
 		<li>ferny.categoriesspots</li>
 		<li>ferny.childhoodcategory</li>
+		<li>ferny.progressionwarrants</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
+
+Progression: Warrants
+Прячет вкладку «Ордеры» до исследования «Сеть ордеров», и добавляет новый сценарий.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3270214529
 
 Progression: Storage
 Интегрирует различные моды на хранилища в прогрессию оригинальной игры.

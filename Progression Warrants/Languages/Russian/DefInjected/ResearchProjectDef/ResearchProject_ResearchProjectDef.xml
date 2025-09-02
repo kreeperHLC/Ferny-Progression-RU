@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.5\Defs\ResearchProject.xml -->
+	<!--              EN: Warrant network -->
+	<WarrantNetwork.label>сеть ордеров</WarrantNetwork.label>
+	<!--                    EN: Establish a connection to a radio-based extensive warrant network where factions place bounties on individuals and artifacts across the planet. -->
+	<WarrantNetwork.description>Установка связи с обширной сетью радио-ордеров, в которой различные группировки выставляют награды за людей и артефакты по всей планете.</WarrantNetwork.description>
+</LanguageData>

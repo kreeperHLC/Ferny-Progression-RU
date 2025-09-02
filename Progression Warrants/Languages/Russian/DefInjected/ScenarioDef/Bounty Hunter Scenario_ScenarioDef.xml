@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- Mods and Shit\VE Vehicles\Defs\Bounty Hunter Scenario.xml -->
+	<!--                  EN: The Bounty Hunter -->
+	<Ferny_BountyHunter.label>Охотник за головами</Ferny_BountyHunter.label>
+	<!--                             EN: Survival on the Rim means whatever it takes, even taking questionable bounties from the warrant network. -->
+	<Ferny_BountyHunter.scenario.summary>Существование в окраинном мире означает делать всё возможное ради выживания, даже браться за сомнительные заказы из сети ордеров.</Ferny_BountyHunter.scenario.summary>
+	<!--                                                EN: 
+            Even the most morally sound of men must adapt on an anarchic planet. Bounty hunters on the Rim traverse the planet in an attempt to make ends meet. With nothing but an unreliable car and a revolver in hand, your only way forward is taking warrants. Each job may be drastically different from the last and test your morality with each and every kill.
+            \n\nParking your car, you take out your radio and tune the frequency.
+           -->
+	<Ferny_BountyHunter.scenario.parts.GameStartDialog.text>
+            Даже самые высокоморальные люди вынуждены подстраиваться под условия анархичной планеты. Охотники за головами в окраинном мире путешествуют по планете в попытке свести концы с концами. Имея в распоряжении лишь ненадежный автомобиль и револьвер, ваш единственный путь вперед — это выполнение ордеров. Каждая работа может кардинально отличаться от предыдущей, подвергая испытанию вашу нравственность с каждым новым убийством.
+            \n\nПрипарковав автомобиль, вы достаете радио и настраиваете частоту.
+          </Ferny_BountyHunter.scenario.parts.GameStartDialog.text>
+	<!--                          EN: The Bounty Hunter -->
+	<Ferny_BountyHunter.scenario.name>Охотник за головами</Ferny_BountyHunter.scenario.name>
+	<!--                                 EN: Even the most morally sound of men must adapt on an anarchic planet. Bounty hunters on the Rim traverse the planet in an attempt to make ends meet. With nothing but an unreliable car and a revolver in hand, your only way forward is taking warrants. Each job may be drastically different from the last and test your morality with each and every kill.\n\nParking your car, you take out your radio and tune the frequency.\n\nGreat for a nomadic playstyle.
+     -->
+	<Ferny_BountyHunter.scenario.description>Даже самые высокоморальные люди вынуждены подстраиваться под условия анархичной планеты. Охотники за головами в окраинном мире путешествуют по планете в попытке свести концы с концами. Имея в распоряжении лишь ненадежный автомобиль и револьвер, ваш единственный путь вперед — это выполнение ордеров. Каждая работа может кардинально отличаться от предыдущей, подвергая испытанию вашу нравственность с каждым новым убийством.\n\nПрипарковав автомобиль, вы достаете радио и настраиваете частоту.\n\nОтлично подходит для кочевого стиля игры.
+    </Ferny_BountyHunter.scenario.description>
+</LanguageData>

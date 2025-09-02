@@ -1,5 +1,5 @@
 <loadFolders>
-  <v1.5>
+  <v1.6>
     <li>/</li>
     <li IfModActive="ferny.progressioncore">Progression Core</li>
     <li IfModActive="ferny.progressionaesthetics">Progression Aesthetics</li>
@@ -22,5 +22,6 @@
     <li IfModActive="ferny.childhoodcategory">Childhood Category</li>
     <li IfModActive="ferny.progressionproduction">Progression Production</li>
     <li IfModActive="ferny.progressionstorage">Progression Storage</li>
-  </v1.5>
+    <li IfModActive="ferny.progressionwarrants">Progression Warrants</li>
+  </v1.6>
 </loadFolders>
