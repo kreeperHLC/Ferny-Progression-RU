@@ -25,5 +25,6 @@
     <li IfModActive="ferny.progressionwarrants">Progression Warrants</li>
     <li IfModActive="ferny.auxiliariescategory">Auxiliaries Category</li>
     <li IfModActive="ferny.progressiontemperature">Progression Temperature</li>
+    <li IfModActive="ferny.networkcategory">Network Category</li>
   </v1.6>
 </loadFolders>

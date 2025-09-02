@@ -30,9 +30,14 @@
 		<li>ferny.progressionwarrants</li>
 		<li>ferny.auxiliariescategory</li>
 		<li>ferny.progressiontemperature</li>
+		<li>ferny.networkcategory</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
+
+Network Category
+Переименовывает категорию «Pipe Networks» (Трубы в русском переводе «Vanilla Vehicles Expanded») в категорию «Сеть» и перемещает туда химтоплевную систему.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3289192668
 
 Progression: Temperature
 Интегрирует моды, связанные с температурой, в прогрессию оригинальной игры.
