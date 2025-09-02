@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- Defs\DesignationCategories.xml -->
+	<!--                 EN: Auxiliaries -->
+	<Ferny_Auxiliaries.label>Вспомогательные</Ferny_Auxiliaries.label>
+	<!--                       EN: Things that boost workspeed. -->
+	<Ferny_Auxiliaries.description>Объекты, которые улучшают другие объекты.</Ferny_Auxiliaries.description>
+</LanguageData>

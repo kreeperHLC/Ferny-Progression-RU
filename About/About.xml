@@ -28,9 +28,14 @@
 		<li>ferny.categoriesspots</li>
 		<li>ferny.childhoodcategory</li>
 		<li>ferny.progressionwarrants</li>
+		<li>ferny.auxiliariescategory</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
+
+Auxiliaries Category
+Добавляет новую категорию «Вспомогательные».
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3439855423
 
 Progression: Warrants
 Прячет вкладку «Ордеры» до исследования «Сеть ордеров», и добавляет новый сценарий.
