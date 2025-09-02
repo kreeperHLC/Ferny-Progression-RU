@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- 1.6\Mods and Shit\VFE Settlers\Defs\Settlers def.xml -->
+	<!--                       EN: Chemshine Disaster -->
+	<Ferny_ChemshineDisaster.label>химогонская катастрофа</Ferny_ChemshineDisaster.label>
+	<!--                                  EN: A post-apocalypse where all deaths cause an explosion. Difficult and high-stakes. -->
+	<Ferny_ChemshineDisaster.scenario.summary>Постапокалипсис, в котором каждая смерть вызывает взрыв. Сложно и рискованно.</Ferny_ChemshineDisaster.scenario.summary>
+	<!--                               EN: Chemshine Disaster -->
+	<Ferny_ChemshineDisaster.scenario.name>Химогонская катастрофа</Ferny_ChemshineDisaster.scenario.name>
+	<!--                                      EN: In a year past, an industrial power plant was shelled in a factional dispute. Chemshine was burst into the water and leaked into the local atmosphere. The world plunged into a period of disrupt, factions became catious of interacting with each other. One year later, the world seems to have adjusted to these new stakes. Everyone has chemshine in their blood, their circuits, there's no going back. If someone dies, they explode. Can the two of you survive another year in this new age? -->
+	<Ferny_ChemshineDisaster.scenario.description>Год назад в результате междоусобной вражды была обстреляна промышленная электростанция. Химогон попал в воду и просочился в атмосферу. Мир погрузился в период хаоса, фракции стали осторожно относиться к взаимодействию друг с другом. Спустя год мир, похоже, приспособился к новым условиям. У всех в крови и в схемах есть химогон, и пути назад нет. Если кто-то умирает, он взрывается. Сможете ли вы двое выжить ещё один год в этой новой эпохе?</Ferny_ChemshineDisaster.scenario.description>
+</LanguageData>

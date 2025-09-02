@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\oskarpotocki_vfe_deserters\deserters patch8.xml -->
+	<!--                            EN: A desertion party on high alert. Lay low while the Empire attempts to extinguish your cell. -->
+	<VFED_NewSafehaven.scenario.summary>Группа дезертиров в состоянии боевой готовности. Залягте на дно, пока Империя пытается избавиться от вашей ячейки.</VFED_NewSafehaven.scenario.summary>
+	<!--                 EN: Desertion Cell -->
+	<VFED_NewSafehaven.label>дезертирская ячейка</VFED_NewSafehaven.label>
+	<!--                         EN: Desertion Cell -->
+	<VFED_NewSafehaven.scenario.name>Дезертирская ячейка</VFED_NewSafehaven.scenario.name>
+</LanguageData>

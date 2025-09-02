@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\patch0.xml -->
+	<!--         EN: Developed Tribe -->
+	<LostTribe.label>развитое племя</LostTribe.label>
+	<!--                 EN: Developed Tribe -->
+	<LostTribe.scenario.name>Развитое племя</LostTribe.scenario.name>
+	<!--                    EN: A group of five lost Neolithic tribespeople attempt to rebuild. Difficult. -->
+	<LostTribe.scenario.summary>Группа из пяти потерявшихся аборигенов пытается восстановить свою жизнь. Это будет сложно.</LostTribe.scenario.summary>
+</LanguageData>

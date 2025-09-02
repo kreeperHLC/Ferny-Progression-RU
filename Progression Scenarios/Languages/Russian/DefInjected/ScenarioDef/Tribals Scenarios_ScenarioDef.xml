@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Mods and Shit\VFE Tribals\Defs\Tribals Scenarios.xml -->
+	<!--                EN: True Start -->
+	<Ferny_LoneTribal.label>с чистого листа</Ferny_LoneTribal.label>
+	<!--                           EN: A posessionless naked man with no understanding of technology. The ultimate hardcore scenario. -->
+	<Ferny_LoneTribal.scenario.summary>Обнаженный человек без вещей, не разбирающийся в технологиях. Абсолютно экстремальный сценарий.</Ferny_LoneTribal.scenario.summary>
+	<!--                                              EN: You have been alone on this anarchal planet for as long as you can remember. The only flicker of hope being the small burst of flame you had just managed to create. A burst of warmth, power, and most importantly hope. Will you have the strength to take that flicker far enough to exit these horrible conditions? -->
+	<Ferny_LoneTribal.scenario.parts.GameStartDialog.text>Вы были одиноки на этой анархичной планете с тех пор, как помните себя. Единственным проблеском надежды стало небольшое пламя, которое вам удалось разжечь. Всплеск тепла, силы и, самое главное, надежды. Хватит ли вам сил пронести этот проблеск достаточно далеко, чтобы выбраться из этих ужасных условий?</Ferny_LoneTribal.scenario.parts.GameStartDialog.text>
+	<!--                        EN: True Start -->
+	<Ferny_LoneTribal.scenario.name>С чистого листа</Ferny_LoneTribal.scenario.name>
+	<!--                               EN: After a long period of thought, you discovered the miracle of fire. That flickering hope offers warmth, safety, and a chance to develop further. Yet, dangers abound in the wild, unknown world around you. You will have to learn how to perform basic tasks - from hunting and sowing, to doctoring and research. Work your way towards forming a tribe that can stand the test of time.\n\nWarning: You start without the ability to do basic tasks, such as sowing, doctoring and hunting - it is extremely difficult and anything can end your run. -->
+	<Ferny_LoneTribal.scenario.description>После долгих размышлений вы открыли для себя чудо огня. Это тлеющая надежда дарит тепло, безопасность и возможность дальнейшего развития. Однако в окружающем вас диком и неизвестном мире полно опасностей. Вам придется научиться выполнять простые задачи — от охоты и посева до лечения и исследований. Работайте над созданием племени, которое сможет выдержать испытание временем.\n\nПредупреждение: вы начинаете без умения выполнять простые задачи, такие как посев, лечение и охота — это чрезвычайно сложно, и всё что угодно может положить конец вашему прохождению.</Ferny_LoneTribal.scenario.description>
+</LanguageData>

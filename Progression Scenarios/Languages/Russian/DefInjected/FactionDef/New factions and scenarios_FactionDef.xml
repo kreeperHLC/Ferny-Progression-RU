@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- 1.6\Defs\New factions and scenarios.xml -->
+	<!--             EN: Advanced Arrivals -->
+	<Ferny_Spacers.label>продвинутое поселение</Ferny_Spacers.label>
+	<!--                   EN: A colony of recently-arrived spacer off-worlders. -->
+	<Ferny_Spacers.description>Ваше космическое поселение.</Ferny_Spacers.description>
+	<!--                    EN: colonist -->
+	<Ferny_Spacers.pawnSingular>поселенец</Ferny_Spacers.pawnSingular>
+	<!--                   EN: colonists -->
+	<Ferny_Spacers.pawnsPlural>поселенцы</Ferny_Spacers.pawnsPlural>
+	<!--                   EN: лидер -->
+	<Ferny_Spacers.leaderTitle>лидер</Ferny_Spacers.leaderTitle>
+	
+	<!--            EN: Ultra Arrivals -->
+	<Ferny_Ultras.label>ультратехнологичное поселение</Ferny_Ultras.label>
+	<!--                  EN: A colony of recently-arrived ultratech off-worlders. -->
+	<Ferny_Ultras.description>Ваше ультратехнологичное поселение.</Ferny_Ultras.description>
+	<!--                   EN: colonist -->
+	<Ferny_Ultras.pawnSingular>поселенец</Ferny_Ultras.pawnSingular>
+	<!--                  EN: colonists -->
+	<Ferny_Ultras.pawnsPlural>поселенцы</Ferny_Ultras.pawnsPlural>
+	<!--                  EN: лидер -->
+	<Ferny_Ultras.leaderTitle>лидер</Ferny_Ultras.leaderTitle>
+</LanguageData>

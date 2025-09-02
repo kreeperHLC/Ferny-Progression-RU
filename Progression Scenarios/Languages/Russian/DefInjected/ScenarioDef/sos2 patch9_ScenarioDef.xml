@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\kentington_saveourship2\sos2 patch9.xml -->
+	<!--           EN: Continue from Existing Ship -->
+	<SoSLoadShip.label>продолжить с существующим кораблём</SoSLoadShip.label>
+	<!--                   EN: Continue from Existing Ship -->
+	<SoSLoadShip.scenario.name>Продолжить с существующим кораблём</SoSLoadShip.scenario.name>
+</LanguageData>

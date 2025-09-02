@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vanillaracesexpanded_insector\insectors patch5.xml -->
+	<!--                 EN: Infested Crash -->
+	<VRE_InfestedCrash.label>зараженное крушение</VRE_InfestedCrash.label>
+	<!--                         EN: Infested Crash -->
+	<VRE_InfestedCrash.scenario.name>Зараженное крушение</VRE_InfestedCrash.scenario.name>
+	<!--                            EN: A hive of insectors, crashlanding in the wilderness. A difficult scenario. -->
+	<VRE_InfestedCrash.scenario.summary>Улей инсектоидов, потерпевший крушение в дикой местности. Это сложный сценарий.</VRE_InfestedCrash.scenario.summary>
+</LanguageData>

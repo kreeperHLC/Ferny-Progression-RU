@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\oskarpotocki_vfe_pirates\pirates patch3.xml -->
+	<!--                  EN: Pirate Crash -->
+	<VFEP_LowOrbitCrash.label>пиратское крушение</VFEP_LowOrbitCrash.label>
+	<!--                          EN: Pirate Crash -->
+	<VFEP_LowOrbitCrash.scenario.name>Пиратское крушение</VFEP_LowOrbitCrash.scenario.name>
+	<!--                             EN: A group of pirates, crash landing in the middle of nowhere. -->
+	<VFEP_LowOrbitCrash.scenario.summary>Группа пиратов, потерпевших крушение в глуши.</VFEP_LowOrbitCrash.scenario.summary>
+</LanguageData>

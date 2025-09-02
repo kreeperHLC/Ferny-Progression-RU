@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Medieval2\VFE medieval 2 patch16.xml -->
+	<!--                           EN: A group of peasants, rebelling against oppressing knights. -->
+	<VFEM2_NewKingdom.scenario.summary>Группа крестьян, восставших против угнетающих рыцарей.</VFEM2_NewKingdom.scenario.summary>
+	<!--                EN: The Revolution -->
+	<VFEM2_NewKingdom.label>революция</VFEM2_NewKingdom.label>
+	<!--                        EN: The Revolution -->
+	<VFEM2_NewKingdom.scenario.name>Революция</VFEM2_NewKingdom.scenario.name>
+</LanguageData>

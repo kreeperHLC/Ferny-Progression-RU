@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Odyssey\odyssey patch17.xml -->
+	<!--           EN: Orbital Chase -->
+	<TheGravship.label>орбитальная погоня</TheGravship.label>
+	<!--                   EN: Orbital Chase -->
+	<TheGravship.scenario.name>Орбитальная погоня</TheGravship.scenario.name>
+	<!--                      EN: A crew of three piloting an orbital Gravship, locked in an eternal race against time. -->
+	<TheGravship.scenario.summary>Экипаж из трех человек, управляющий орбитальным гравикораблем, ввязался в бесконечную гонку со временем.</TheGravship.scenario.summary>
+</LanguageData>

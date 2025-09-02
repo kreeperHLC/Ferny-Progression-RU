@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\oskarpotocki_vfe_empire\vfe empire patch1.xml -->
+	<!--              EN: Ambushed Manor -->
+	<VFEE_NewFamily.label>поместье в засаде</VFEE_NewFamily.label>
+	<!--                      EN: Ambushed Manor -->
+	<VFEE_NewFamily.scenario.name>Поместье в засаде</VFEE_NewFamily.scenario.name>
+	<!--                         EN: An imperial family in dire need of help. A very challenging Empire start. -->
+	<VFEE_NewFamily.scenario.summary>Имперская семья, остро нуждающаяся в помощи. Очень сложный имперское начало.</VFEE_NewFamily.scenario.summary>
+</LanguageData>

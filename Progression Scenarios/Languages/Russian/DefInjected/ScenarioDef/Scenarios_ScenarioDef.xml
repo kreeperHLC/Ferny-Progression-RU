@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- 1.6\Mods and Shit\VE Events\Defs\Scenarios.xml -->
+	<!--                      EN: Meteor Showers -->
+	<IndustrialMeteorShower.label>метеоритные дожди</IndustrialMeteorShower.label>
+	<!--                                 EN: Three colonists bombared with constant meteor showers, some containing valuable resources. -->
+	<IndustrialMeteorShower.scenario.summary>Три поселенца подвергаются постоянным метеоритных дождям, некоторые из которых содержат ценные ресурсы.</IndustrialMeteorShower.scenario.summary>
+	<!--                              EN: Meteor Showers -->
+	<IndustrialMeteorShower.scenario.name>Метеоритные дожди</IndustrialMeteorShower.scenario.name>
+	<!--                                     EN: A nearby moon is breaking apart, hurling chunks of rock onto the planet's surface. As you look into the sky, you stow your existensial dread and come to terms with your new reality. The clock is ticking. -->
+	<IndustrialMeteorShower.scenario.description>Близлежащая луна разваливается на куски, которые падают на поверхность планеты. Глядя в небо, вы отбрасываете свои экзистенциальные страхи и смиряетесь с новой реальностью. Время поджимает.</IndustrialMeteorShower.scenario.description>
+	
+	<!--                  EN: Meteor Showers -->
+	<TribalMeteorShower.label>метеоритные дожди</TribalMeteorShower.label>
+	<!--                             EN: Three tribespeople bombared with constant meteor showers, some containing valuable resources. -->
+	<TribalMeteorShower.scenario.summary>Три аборигена подвергаются постоянным метеоритных дождям, некоторые из которых содержат ценные ресурсы.</TribalMeteorShower.scenario.summary>
+	<!--                          EN: Meteor Showers -->
+	<TribalMeteorShower.scenario.name>Метеоритные дожди</TribalMeteorShower.scenario.name>
+	<!--                                 EN: A nearby moon is breaking apart, hurling chunks of rock onto the planet's surface. As you look into the sky, you stow your existensial dread and come to terms with your new reality. The clock is ticking. -->
+	<TribalMeteorShower.scenario.description>Близлежащая луна разваливается на куски, которые падают на поверхность планеты. Глядя в небо, вы отбрасываете свои экзистенциальные страхи и смиряетесь с новой реальностью. Время поджимает.</TribalMeteorShower.scenario.description>
+</LanguageData>

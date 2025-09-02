@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vanillaexpanded_vfea\vfe ancients patch7.xml -->
+	<!--                 EN: Locked Out -->
+	<Ferny_TribalVault.label>запертые</Ferny_TribalVault.label>
+	<!--                            EN: A small group of wild men locked outside of an ancient vault. Very challenging. -->
+	<Ferny_TribalVault.scenario.summary>Небольшая группа диких людей, запертых снаружи древнего хранилища. Очень сложно.</Ferny_TribalVault.scenario.summary>
+	<!--                                               EN: With each passing day you stare at your fellow companions hibernating in cryptosleep sarcophagi. One day, when your life is nearing its end, you will wake your successor, and his watch will begin. Every day for the last hundreds of years your outpost was awaiting orders from High Command which may no longer exist. Will today be the day you not only wake up, but also open your eyes? -->
+	<Ferny_TribalVault.scenario.parts.GameStartDialog.text>Каждый день вы взираете на своих товарищей, спящих в саркофагах криптосна. Однажды, когда ваша жизнь подойдет к концу, вы разбудите своего преемника, и его бдение начнется. Каждый день на протяжении последних сотен лет ваш аванпост ждал приказов от Высшего командования, которое, возможно, больше не существует. Будет ли сегодня тот день, когда вы не только проснетесь, но и откроете глаза?</Ferny_TribalVault.scenario.parts.GameStartDialog.text>
+	<!--                                                                   EN: A sealed vault -->
+	<Ferny_TribalVault.scenario.parts.VFEC_AddStartingStructure.structureLabel>Запечатанное хранилище</Ferny_TribalVault.scenario.parts.VFEC_AddStartingStructure.structureLabel>
+	<!--                         EN: Locked Out -->
+	<Ferny_TribalVault.scenario.name>Запертые</Ferny_TribalVault.scenario.name>
+	<!--                                EN: With each passing day you stare at your fellow companions hibernating in cryptosleep sarcophagi. One day, when your life is nearing its end, you will wake your successor, and his watch will begin. Every day for the last hundreds of years your outpost was awaiting orders from High Command which may no longer exist. Will today be the day you not only wake up, but also open your eyes?
+	
+Note: Since you start alone with random superpowers and weaknesses, this is a difficult scenario. -->
+	<Ferny_TribalVault.scenario.description>Каждый день вы взираете на своих товарищей, спящих в саркофагах криптосна. Однажды, когда ваша жизнь подойдет к концу, вы разбудите своего преемника, и его бдение начнется. Каждый день на протяжении последних сотен лет ваш аванпост ждал приказов от Высшего командования, которое, возможно, больше не существует. Будет ли сегодня тот день, когда вы не только проснетесь, но и откроете глаза?
+	
+Примечание: поскольку вы начинаете в одиночку с случайными суперспособностями и слабостями, это сложный сценарий.</Ferny_TribalVault.scenario.description>
+</LanguageData>

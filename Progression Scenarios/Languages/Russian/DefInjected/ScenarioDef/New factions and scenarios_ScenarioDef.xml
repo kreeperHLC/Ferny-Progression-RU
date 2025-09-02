@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- 1.6\Defs\New factions and scenarios.xml -->
+	
+	<!--                 EN: Advanced Crashlanded -->
+	<SpacerCrashlanded.label>продвинутая аварийная посадка</SpacerCrashlanded.label>
+	<!--                            EN: Three crashlanded survivors with Spacer homeworld knowledge. Skip ahead! -->
+	<SpacerCrashlanded.scenario.summary>Трое выживших, совершивших аварийную посадку вместе с космическими знаниями. За дело!</SpacerCrashlanded.scenario.summary>
+	<!--                         EN: Advanced Crashlanded -->
+	<SpacerCrashlanded.scenario.name>Продвинутая аварийная посадка</SpacerCrashlanded.scenario.name>
+	<!--                                EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. Last thing you remember was your ship transmitting information into your skull about your homeworld's knowledge. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. Will you rebuild in the fleeting image of your homeworld? -->
+	<SpacerCrashlanded.scenario.description>Трое из вас просыпаются в саркофагах криптосна под звук сирен и скрежет металла. Последнее, что вы помните, — это то, как ваш корабль транслировал в ваш мозг информацию о знаниях вашей родной планеты. Вам едва удаётся добраться до спасательных капсул, прежде чем корабль разрывает на части. Спустя некоторое время капсулы оказываются на поверхности неизведанного окраинного мира. Сможете ли вы перестроить его по мимолетному образу вашей родной планеты?</SpacerCrashlanded.scenario.description>
+	
+	<!--                  EN: Lost Tribesman -->
+	<FernyLoneTribesman.label>потерянный член племени</FernyLoneTribesman.label>
+	<!--                             EN: A tribal man loses his group, and ends up alone and afraid. -->
+	<FernyLoneTribesman.scenario.summary>Член племени теряет свою группу, оказываясь в одиночестве и страхе.</FernyLoneTribesman.scenario.summary>
+	<!--                          EN: Lost Tribesman -->
+	<FernyLoneTribesman.scenario.name>Потерянный член племени</FernyLoneTribesman.scenario.name>
+	<!--                                 EN: You were asked by your tribe to gather food for a caravan journey. As you wandered further and further off, you turned around to realize you no longer recognized your surroundings. You called out to your tribe, only to be met with echoes. Reality sinks in. You're on your own now. -->
+	<FernyLoneTribesman.scenario.description>Ваше племя попросило вас собрать провизию для путешествия в составе каравана. Отдаляясь все дальше и дальше, вы обернулись и поняли, что больше не узнаете окружающую местность. Вы звали свое племя, но в ответ слышали только эхо. Реальность дала о себе знать. Теперь вы остались одни.</FernyLoneTribesman.scenario.description>
+</LanguageData>
