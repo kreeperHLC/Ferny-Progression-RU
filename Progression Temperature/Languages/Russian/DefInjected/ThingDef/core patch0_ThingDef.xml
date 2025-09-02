@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\core patch0.xml -->
+	<!--      EN: standing heater -->
+	<Heater.label>стоячий обогреватель</Heater.label>
+	<!--              EN: heater -->
+	<VTE_WallHeater.label>обогреватель</VTE_WallHeater.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Dubwise_DubsBadHygiene\hygeine patch1.xml -->
+	<!--           EN: Solar water heater -->
+	<SolarHeater.label>солнечный водонагреватель</SolarHeater.label>
+	<!--              EN: Geothermal water heater -->
+	<GeothermHeater.label>геотермальный водонагреватель</GeothermHeater.label>
+</LanguageData>

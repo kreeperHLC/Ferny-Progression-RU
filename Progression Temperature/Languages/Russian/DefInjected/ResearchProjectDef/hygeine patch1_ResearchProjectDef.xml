@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Dubwise_DubsBadHygiene\hygeine patch1.xml -->
+	<!--              EN: Fluid heat exchange -->
+	<CentralHeating.label>Теплообмен жидкостей</CentralHeating.label>
+	<!--                 EN: Geothermal water heating -->
+	<GeothermalHeating.label>Геотермальный водонагреватель</GeothermalHeating.label>
+</LanguageData>

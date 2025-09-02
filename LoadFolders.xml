@@ -24,5 +24,6 @@
     <li IfModActive="ferny.progressionstorage">Progression Storage</li>
     <li IfModActive="ferny.progressionwarrants">Progression Warrants</li>
     <li IfModActive="ferny.auxiliariescategory">Auxiliaries Category</li>
+    <li IfModActive="ferny.progressiontemperature">Progression Temperature</li>
   </v1.6>
 </loadFolders>

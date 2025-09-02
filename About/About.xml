@@ -29,9 +29,14 @@
 		<li>ferny.childhoodcategory</li>
 		<li>ferny.progressionwarrants</li>
 		<li>ferny.auxiliariescategory</li>
+		<li>ferny.progressiontemperature</li>
 	</loadAfter>
 	<description>Перевод всех существующих модов под авторством Ferny для сборки Ferny's Progression
 Необязательно скачивать все моды, этот мод переведёт только то, что вы используете.
+
+Progression: Temperature
+Интегрирует моды, связанные с температурой, в прогрессию оригинальной игры.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3253283971
 
 Auxiliaries Category
 Добавляет новую категорию «Вспомогательные».
